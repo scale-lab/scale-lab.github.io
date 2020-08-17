@@ -6,10 +6,20 @@ permalink: /members/
 
 **Current Members:**
 
+![](/members/sreda2.jpg){:height="112px" width="110"}[&nbsp;&nbsp;Prof. Sherief Reda            ]({% link pages/sreda.markdown %})
+
+![](/members/sofiane.jpg){:height="117px" width="110px"}[&nbsp;&nbsp;Sofiane Chetoui&nbsp;&nbsp;]({% link pages/sofiane.markdown %}) ![](/members/abdel.jpeg){:height="117px" width="110px"}[&nbsp;&nbsp;Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
+
+![](/members/marina.jpg){:height="117px" width="110"}[&nbsp;&nbsp;Marina Neseem&nbsp;&nbsp;&nbsp;]({% link pages/marina.markdown %})![](/members/agiza.jpg){:height="117px" width="110px"}[&nbsp;&nbsp;Ahmed Agiza&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]({% link pages/ahmed.markdown %})
+
+![](/members/jingxiao.jpg){:height="117px" width="110px"}[&nbsp;&nbsp;Jingxiao Ma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]({% link pages/jingxiao.markdown %}) ![](/members/bahaa.jpg){:height="117px" width="110px"} &nbsp;&nbsp;Bahaa AboAlNaga
+
+<!--
+
 |[Prof. Sherief Reda]({% link pages/sreda.markdown %})<br/>![](/members/sreda2.jpg){:height="117px" width="110"}| [Sofiane Chetoui]({% link pages/sofiane.markdown %})<br/>![](/members/sofiane.jpg){:height="117px" width="110px"}| [Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})<br/>![](/members/abdel.jpeg){:height="110px" width="110px"} | [Marina Neseem]({% link pages/marina.markdown %})<br/>![](/members/marina.jpg){:height="117px" width="110"}|
 |:----------:|:-------------:|:------:|:------:|
-|[**Ahmed Agiza**]({% link pages/ahmed.markdown %})<br/>![](/members/agiza.jpg){:height="117px" width="100px"} | [**Jingxiao Ma**]({% link pages/jingxiao.markdown %})<br/>![](/members/jingxiao.jpg){:height="117px" width="105px"}| **Bahaa AboAlNaga**<br/>![](/members/bahaa.jpg){:height="117px" width="105px"} | **Andrew Duncombe** |
-
+|[**Ahmed Agiza**]({% link pages/ahmed.markdown %})<br/>![](/members/agiza.jpg){:height="117px" width="100px"} | | **Bahaa AboAlNaga**<br/>![](/members/bahaa.jpg){:height="117px" width="105px"} | **Andrew Duncombe** |
+-->
 
 **Prior Members:**
 
