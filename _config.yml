@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SCALE lab website 
+title: SCALE lab 
 email: sherief_reda@brown.edu
 description: # this means to ignore newlines until "baseurl:"
   SCALE lab, School of Engineering, Brown University.
