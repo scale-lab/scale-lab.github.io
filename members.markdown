@@ -6,7 +6,7 @@ permalink: /members/
 
 ![](/members/sreda2.jpg){:height="112px" width="110"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
 
-![](/members/sofiane.jpg){:height="117px" width="110px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp; ![](/members/abdel.jpeg){:height="117px" width="110px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
+![](/members/sofiane.jpg){:height="117px" width="110px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp; ![](/members/abdelrahman.jpeg){:height="117px" width="110px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
 
 ![](/members/marina.jpg){:height="117px" width="110"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;![](/members/agiza.jpg){:height="117px" width="110px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
 
