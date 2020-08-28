@@ -6,11 +6,11 @@ permalink: /members/
 
 ![](/members/sreda_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
 
-![](/members/sofiane_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp; ![](/members/abdel_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
+![](/members/sofiane_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](/members/abdel_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
 
-![](/members/marina_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
+![](/members/marina_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
 
-![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/duncombe_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Andrew Duncombe]({% link pages/duncombe.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](/members/duncombe_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Andrew Duncombe]({% link pages/duncombe.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![](/members/bahaa_mini.jpg){:height="100px" width="100px"} &nbsp;&nbsp;Bahaa AboAlNaga
 
