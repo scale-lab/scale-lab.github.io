@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classes
-permalink: /classes/
+permalink: /courses/
 ---
 
 | Level  | Class Code | Title

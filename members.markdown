@@ -4,19 +4,23 @@ title: Members
 permalink: /members/
 ---
 
-![](/members/sreda2.jpg){:height="112px" width="110"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
+![](/members/sreda_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
 
-![](/members/sofiane.jpg){:height="117px" width="110px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp; ![](/members/abdel.jpeg){:height="117px" width="110px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
+![](/members/sofiane_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp; ![](/members/abdel_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
 
-![](/members/marina.jpg){:height="117px" width="110"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;![](/members/agiza.jpg){:height="117px" width="110px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
+![](/members/marina_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
 
-![](/members/jingxiao.jpg){:height="117px" width="110px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/bahaa.jpg){:height="117px" width="110px"} &nbsp;&nbsp;Bahaa AboAlNaga
+![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/duncombe_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Andrew Duncombe]({% link pages/duncombe.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+![](/members/bahaa_mini.jpg){:height="100px" width="100px"} &nbsp;&nbsp;Bahaa AboAlNaga
+
+
 
 <!--
 
-|[Prof. Sherief Reda]({% link pages/sreda.markdown %})<br/>![](/members/sreda2.jpg){:height="117px" width="110"}| [Sofiane Chetoui]({% link pages/sofiane.markdown %})<br/>![](/members/sofiane.jpg){:height="117px" width="110px"}| [Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})<br/>![](/members/abdel.jpeg){:height="110px" width="110px"} | [Marina Neseem]({% link pages/marina.markdown %})<br/>![](/members/marina.jpg){:height="117px" width="110"}|
+|[Prof. Sherief Reda]({% link pages/sreda.markdown %})<br/>![](/members/sreda2_mini.jpg){:height="117px" width="110"}| [Sofiane Chetoui]({% link pages/sofiane.markdown %})<br/>![](/members/sofiane_mini.jpg){:height="117px" width="110px"}| [Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})<br/>![](/members/abdel.jpeg){:height="110px" width="110px"} | [Marina Neseem]({% link pages/marina.markdown %})<br/>![](/members/marina_mini.jpg){:height="117px" width="110"}|
 |:----------:|:-------------:|:------:|:------:|
-|[**Ahmed Agiza**]({% link pages/ahmed.markdown %})<br/>![](/members/agiza.jpg){:height="117px" width="100px"} | | **Bahaa AboAlNaga**<br/>![](/members/bahaa.jpg){:height="117px" width="105px"} | **Andrew Duncombe** |
+|[**Ahmed Agiza**]({% link pages/ahmed.markdown %})<br/>![](/members/agiza_mini.jpg){:height="117px" width="100px"} | | **Bahaa AboAlNaga**<br/>![](/members/bahaa_mini.jpg){:height="117px" width="105px"} | **Andrew Duncombe** |
 -->
 
 **Prior Members:**
