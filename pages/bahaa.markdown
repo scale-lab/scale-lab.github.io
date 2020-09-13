@@ -13,7 +13,3 @@ He was a part of an initiative with the Institute of Space Systems (IRS), Univer
 
 
 He has a number of [publications](https://scholar.google.com/citations?user=eEgJwR4AAAAJ&hl=en) in high impact journals in the field of chaos theory, fractional order systems, Nano/Micro-electronics, Optimization Techniques, FPGA/ASIC design flow and Nano-robotics. He also acted as a reviewer for the IEEE ACCESS journal in 2019 and the Circuits, Systems, and Signal Processing journal in 2020. He is currently working on using Fractional order calculus and Fractional order systems for feature extraction in machine learning recognition models.
-
- ([Google scholar profile](https://scholar.google.com/citations?user=eEgJwR4AAAAJ&hl=en))
- 
- ([Linkedin profile](https://www.linkedin.com/in/bahaaaldeen/))
