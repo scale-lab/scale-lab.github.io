@@ -4,6 +4,12 @@ title: Publications
 permalink: /pubs/
 ---
 
+### 2021
+
+S. M. Nabavinejad, S. Reda, M. Ebrahimi\
+BatchSizer: Power-Performance Trade-off for DNN Inference\
+_IEEE Asian-South Pacific Design Automation Conference_
+
 ### 2020
 
 I. Scarabottolo, G. Ansaloni, G. Constantinides, L. Pozzi and S. Reda\
@@ -31,7 +37,7 @@ M. Neseem, J. Nelson and S. Reda\
 [AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices](https://arxiv.org/abs/2006.05884)\
 _IEEE/ACM Design Automation Conference_
 
-M. Syed Nabavinejad, L. Mashayekhy and S. Reda\
+S. M. Nabavinejad, L. Mashayekhy and S. Reda\
 [ApproxDNN: Incentivizing DNN Approximation in Cloud](https://ieeexplore.ieee.org/document/9139687)\
 _IEEE/ACM CCGrid_
 
@@ -59,7 +65,7 @@ J. Ma, S. Hashemi and S. Reda\
 [Approximate Logic Synthesis Using BLASYS](https://woset-workshop.github.io/PDFs/2019/a5.pdf)\
 _Workshop on Open-Source EDA Technology_
 
-M. Syed Nabavinejad and S. Reda\
+S. M. Nabavinejad and S. Reda\
 [Coordinated DVFS and Precision Control for Deep Neural Networks](https://ieeexplore.ieee.org/document/8840877)\
 _IEEE Computer Architecture Letters_
 
@@ -128,7 +134,7 @@ _IEEE International Symposium on Information Theory_
  [Approximate Computing for Biometric Security Systems: A Case Study on Iris Scanning](/pdfs/date18a.pdf)\
  _IEEE Design, Automation Test in Europe_
 
- M. Nabavi Nejad, X. Zhan, R. Azimi, M Goudarzi, and S. Reda\ 
+S. M. Nabavinejad, X. Zhan, R. Azimi, M Goudarzi, and S. Reda\
  [QoR-Aware Power Capping for Approximate Big Data Processing](/pdfs/date18b.pdf)\
   _IEEE Design, Automation Test in Europe_
 

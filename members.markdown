@@ -12,15 +12,13 @@ permalink: /members/
 
 ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](/members/duncombe_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Andrew Duncombe]({% link pages/duncombe.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![](/members/bahaa_mini.jpg){:height="100px" width="100px"} &nbsp;&nbsp;Bahaa AboAlNaga
-
 
 
 
 
 **Prior Members:**
 
-*   **Summer 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), BahaaAlDeen M. AboAlNaga (ScM), Andrew Duncombe (BSc)
+*   **Summer 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), BahaaAlDeen M. AboAlNaga (visiting ScM), Andrew Duncombe (BSc)
 *   **Spring 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (ScM), Jon Nelson (BSc)
 
 * * *

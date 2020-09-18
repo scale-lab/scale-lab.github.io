@@ -6,6 +6,7 @@ permalink: /news/
 
 **2020:**
 
+*	2020/09: New Facebook grant
 *   2020/07: New NSF grant with [J. Rosenstein](http://rosenstein.engin.brown.edu), C. Rose, B. Rubenstein and J. Larkin
 *   2020/05: Congratulations to Jingxiao Ma for successfully completing his Sc.M. report
 *   2020/04: Congratulations to Jon Nelson for successfully completing his B.Sc. Honors thesis
