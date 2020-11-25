@@ -12,6 +12,10 @@ _IEEE Asian-South Pacific Design Automation Conference_
 
 ### 2020
 
+A. Agiza and S. Reda\
+[OpenPhySyn: An Open-Source Physical Synthesis Optimization Toolkit](https://woset-workshop.github.io/PDFs/2020/a09.pdf)\
+_Workshop on Open-Source EDA Technology (WOSET)_
+
 I. Scarabottolo, G. Ansaloni, G. Constantinides, L. Pozzi and S. Reda\
 Approximate Logic Synthesis: A Survey\
 _Proc. of the IEEE_
