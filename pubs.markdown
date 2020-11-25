@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+A. Hosny and S. Reda\
+Characterizing and Optimizing EDA Flows for the Cloud\
+_IEEE/ACM Design Automation Test in Europe (DATE)_
+
 S. M. Nabavinejad, S. Reda, M. Ebrahimi\
 BatchSizer: Power-Performance Trade-off for DNN Inference\
 _IEEE Asian-South Pacific Design Automation Conference_
