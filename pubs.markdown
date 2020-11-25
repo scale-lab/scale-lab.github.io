@@ -21,9 +21,10 @@ X. Lian, S. Reda and J. Rosenstein\
 Simultaneous Estimation of Temperature and Voltage from Digital Delay Diversity\
 _IEEE VLSI-SoC_
 
-S. Dai, C. Tulloss, X. Lian, K. Hu, S. Reda and J. Rosenstein, 
+S. Dai, C. Tulloss, X. Lian, K. Hu, S. Reda and J. Rosenstein\
 Temperature and Supply Voltage Monitoring with Current-mode Relaxation Oscillators\
 _IEEE VLSI-SoC_
+
 
 R. Azimi and S. Reda\
 [PowerCoord: Power Capping Coordination for Multi-CPU/GPU Servers using Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S2210537920301396)\
@@ -32,6 +33,10 @@ _ElSevier Sustainable Computing_
 J. K. Rosenstein, C. Rose, S. Reda, P. M. Weber, E. Kim, J. Sello, J. Geiser, E. Kennedy, C. Arcadia, A. Dombroski, K. Oakley, S. L. Chen, H Tann, and B. M. Rubenstein\
 [Principles of Information Storage in Small-Molecule Mixtures](https://ieeexplore.ieee.org/document/9018156)\
 _IEEE Transactions on NanoBioScience_
+
+S. Chetoui and S. Reda\
+[Coordinated Self-Tuning Thermal Management Controller for Mobile Devices](https://ieeexplore.ieee.org/document/9017939)\
+_IEEE Design & Test_
 
 M. Neseem, J. Nelson and S. Reda\
 [AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices](https://arxiv.org/abs/2006.05884)\
