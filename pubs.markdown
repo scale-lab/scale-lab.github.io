@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+S. Chetoui and S. Reda\
+Workload- and User-aware Battery Lifetime Management for Mobile SoCs\
+_IEEE/ACM Design Automation Test in Europe (DATE)_
+
 A. Hosny and S. Reda\
 Characterizing and Optimizing EDA Flows for the Cloud\
 _IEEE/ACM Design Automation Test in Europe (DATE)_
