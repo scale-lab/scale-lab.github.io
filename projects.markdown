@@ -15,14 +15,14 @@ Collaborators:
 
 
 * _Emerging molecular computing paradigms_\
-Funding: DARPA and NSF
+Funding: DARPA and NSF\
 Members: Ahmed Agiza\
 Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
 
 ![](chem.png)
 
 * _Efficient machine learning processing for resource-constrained embedded and wearable devices_\
-Funding: NSF, DoD and Facebook
+Funding: NSF, DoD and Facebook\
 Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza\
 Collaborators: 
 
@@ -30,7 +30,7 @@ Collaborators:
 
 
 * _Thermal & power sensing, modeling and management for mobile SoCs_\
-Funding: NSF and Samsung
+Funding: NSF and Samsung\
 Members: Sofiane Chetoui\
 Collaborators: Ayse Coskun
 
