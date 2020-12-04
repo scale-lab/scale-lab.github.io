@@ -6,7 +6,7 @@ permalink: /projects/
 
 **Current Research Projects**: 
 
-_Approximate and adaptive computing for energy efficiency_\
+***Approximate and adaptive computing for energy efficiency***\
 Funding: NSF and DoD\
 Members: Marina Neseem, Jingxiao Ma, Andrew Duncombe \
 Collaborators:\
@@ -14,7 +14,7 @@ XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXX
 
 ---
 
-_Emerging molecular computing paradigms_\
+***Emerging molecular computing paradigms***\
 Funding: DARPA and NSF\
 Members: Ahmed Agiza\
 Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
@@ -22,7 +22,7 @@ Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
 XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX 
 
 --- 
- _Efficient machine learning processing for resource-constrained embedded and wearable devices_\
+ ***Efficient machine learning processing for resource-constrained embedded and wearable devices***\
 Funding: NSF, DoD and Facebook\
 Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza\
 Collaborators: 
@@ -30,7 +30,7 @@ Collaborators:
 XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX 
 
 --- 
- _Thermal & power sensing, modeling and management for mobile SoCs_\
+***Thermal & power sensing, modeling and management for mobile SoCs***\
 Funding: NSF and Samsung\
 Members: Sofiane Chetoui\
 Collaborators: Ayse Coskun
