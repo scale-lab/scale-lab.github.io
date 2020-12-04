@@ -45,7 +45,7 @@ Robust Gait Recognition Techniques for Wearable Devices\
 Jon Nelson, May 2020
 
 
-[Design of Low-Power Ray Triangle Intersection Accelerators](pdfs/krishna.pdf)\
+[Design of Low-Power Ray Triangle Intersection Accelerators](/pdfs/krishna.pdf)\
 Krishna Rajan, May 2019
 
 [Revisiting the Case of ARM SoCs in High-Performance Computing Clusters](/pdfs/Fox_Thesis.pdf)\
