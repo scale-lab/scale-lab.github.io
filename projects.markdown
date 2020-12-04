@@ -9,7 +9,7 @@ permalink: /projects/
 * _Approximate and adaptive computing for energy efficiency_\
 Funding: NSF and DoD\
 Members: Marina Neseem, Jingxiao Ma, Andrew Duncombe \
-Collaborators:
+Collaborators:\
 ![](approx.png)
 XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX 
 
