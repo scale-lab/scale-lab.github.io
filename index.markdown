@@ -6,8 +6,6 @@ layout: home
 ---
 ![](logo.png)
 
-Welcome to **SCAL**able **E**nergy-Efficient Computing Systems (SCALE) Laboratory
-
 **Recent News:**
 
 * 	2020/09: New Facebook grant
