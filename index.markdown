@@ -4,8 +4,8 @@
 
 layout: home
 ---
-Welcome to **SCAL**able **E**nergy-Efficient Computing Systems (SCALE) Laboratory.
 ![](logo.png)
+Welcome to **SCAL**able **E**nergy-Efficient Computing Systems (SCALE) Laboratory.
 
 **Recent News:**
 
