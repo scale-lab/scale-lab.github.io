@@ -95,8 +95,8 @@ Jingxiao Ma
 Funding: NSF and DoD\
 ![](approx.png)
 * _Emerging molecular computing paradigms_\
-![](chem.png)
 Funding: DARPA and NSF\
+![](chem.png)
 * _Energy-efficient machine learning processing for embedded and wearable devices_\
 Funding: NSF, DoD and Facebook\
 ![](AI.png)
