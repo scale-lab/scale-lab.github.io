@@ -22,86 +22,17 @@ layout: home
 * _Nature Communications_ -- Multicomponent Molecular Memory
 * _ASPDAC'20_ -- DRiLLS: Deep Reinforcement Learning for Logic Synthesis
 
-
-
-<!--
-<table  cellspacing="0" cellpadding="0">
-
-<tr>
-
-<td align="center" valign="center">
-<img src="members/sreda2.jpg" width="110" height="117"/>
-<br>
-<a href="sreda.markdown">Prof. Sherief Reda</a>
-<br>
-(PI investigator)
-</td>
-
-<td align="center" valign="center">
-<img src="members/sofiane.jpg" width="110" height="117"/>
-<br>
-Sofiane Chetoui 
-<br>
-(PhD student)
-</td>
-
-<td align="center" valign="center">
-<img src="members/abdelrahman.jpeg"  width="110" height="117"/>
-<br>
-Abdelrahman Hosny
-<br>
-(PhD Student)
-</td>
-
-
-</tr>
-
-<tr>
-
-<td align="center" valign="center">
-<img src="members/marina.jpg" width="110" height="130"/>
-<br>
-Marina Neseem 
-<br>
-(PhD student) 
-</td>
-
-<td align="center" valign="center">
-<img src="members/agiza.jpg" width="110" height="130"/>
-<br>
-Ahmed Agiza 
-<br>
-(PhD Student)
-</td>
-
-<td align="center" valign="center">
-<img src="members/jingxiao.jpg" width="110" height="130"/> 
-<br>
-Jingxiao Ma
-<br>
-(PhD Student)
-</td>
-
-</tr>
-
-</table>
--->
-
 **Current Research Projects**: 
 
-![](approx.png){: style="float: right"}
 * _Approximate and adaptive computing for energy efficiency_\
 Funding: NSF and DoD
 
-![](chem.png){: style="float: right"}
 * _Emerging molecular computing paradigms_\
 Funding: DARPA and NSF
 
-![](AI.png){: style="float: right"}
 * _Efficient machine learning processing for resource-constrained embedded and wearable devices_\
 Funding: NSF, DoD and Facebook
 
-![](hotspot.png){: style="float: right"}
 * _Thermal & power sensing, modeling and management for mobile SoCs_\
 Funding: NSF and Samsung
 
