@@ -18,6 +18,7 @@ S. M. Nabavinejad, S. Reda, M. Ebrahimi\
 BatchSizer: Power-Performance Trade-off for DNN Inference\
 _IEEE Asian-South Pacific Design Automation Conference_
 
+---
 ### 2020
 
 A. Agiza and S. Reda\
@@ -25,7 +26,7 @@ A. Agiza and S. Reda\
 _Workshop on Open-Source EDA Technology (WOSET)_
 
 I. Scarabottolo, G. Ansaloni, G. Constantinides, L. Pozzi and S. Reda\
-Approximate Logic Synthesis: A Survey\
+[Approximate Logic Synthesis: A Survey](https://ieeexplore.ieee.org/document/9170586)\
 _Proc. of the IEEE_
 
 
@@ -35,8 +36,8 @@ _IEEE VLSI-SoC_
 
 S. Dai, C. Tulloss, X. Lian, K. Hu, S. Reda and J. Rosenstein\
 Temperature and Supply Voltage Monitoring with Current-mode Relaxation Oscillators\
-_IEEE VLSI-SoC_
-
+_IEEE VLSI-SoC_\
+**Best paper Candidate**
 
 R. Azimi and S. Reda\
 [PowerCoord: Power Capping Coordination for Multi-CPU/GPU Servers using Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S2210537920301396)\
