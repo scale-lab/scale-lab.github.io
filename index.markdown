@@ -94,6 +94,7 @@ Jingxiao Ma
 * _Approximate and adaptive computing for energy efficiency_\
 Funding: NSF and DoD
 * _Emerging molecular computing paradigms_\
+![](chem.png)\
 Funding: DARPA and NSF
 * _Energy-efficient machine learning processing for embedded and wearable devices_\
 ![](AI.png)\
