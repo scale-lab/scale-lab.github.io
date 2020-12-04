@@ -92,7 +92,7 @@ Jingxiao Ma
 **Current Research Projects**: 
 
 * _Approximate and adaptive computing for energy efficiency_\
-![](approx.png)\
+![](approx.png =2x)\
 Funding: NSF and DoD
 * _Emerging molecular computing paradigms_\
 ![](chem.png)\
