@@ -32,4 +32,3 @@ Funding: DARPA and NSF
 Funding: NSF, DoD and Facebook
 * _Thermal & power sensing, modeling and management for mobile SoCs_\
 Funding: NSF and Samsung
-
