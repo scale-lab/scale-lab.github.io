@@ -98,7 +98,7 @@ Funding: NSF and DoD
 ![](chem.png)\
 Funding: DARPA and NSF
 * _Energy-efficient machine learning processing for embedded and wearable devices_\
-![](AI.png)\
+![](AI.jpeg)\
 Funding: NSF, DoD and Facebook
 * _Thermal & power sensing, modeling and management for mobile SoCs_\
 Funding: NSF and Samsung
