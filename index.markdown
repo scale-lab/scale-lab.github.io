@@ -95,7 +95,7 @@ Funding: NSF and DoD\
 * _Emerging molecular computing paradigms_\
 Funding: DARPA and NSF\
 ![](chem.png)
-* _Energy-efficient machine learning processing for embedded and wearable devices_\
+* _Efficient machine learning processing for resource-constrained embedded and wearable devices_\
 Funding: NSF, DoD and Facebook\
 ![](AI.png)
 * _Thermal & power sensing, modeling and management for mobile SoCs_\
