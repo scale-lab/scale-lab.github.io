@@ -5,6 +5,7 @@
 layout: home
 ---
 Welcome to **SCAL**able **E**nergy-Efficient Computing Systems (SCALE) Laboratory.
+![](logo.png)
 
 **Recent News:**
 
