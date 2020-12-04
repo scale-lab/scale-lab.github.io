@@ -6,12 +6,14 @@ permalink: /projects/
 
 **Current Research Projects**: 
 
+|
 * _Approximate and adaptive computing for energy efficiency_\
 Funding: NSF and DoD\
 Members: Marina Neseem, Jingxiao Ma, Andrew Duncombe \
 Collaborators:\
 XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX ![](approx.png)
-
+|
+_____
 
 * _Emerging molecular computing paradigms_\
 Funding: DARPA and NSF\
