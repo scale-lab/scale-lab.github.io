@@ -50,6 +50,7 @@ However, deploying EDA jobs on the cloud requires EDA teams to deeply understand
 Funding: NSF and Samsung\
 Members: Sofiane Chetoui\
 Collaborators: Ayse Coskun\
-XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX 
+
+Mobile devices have become an essential part of daily life with the increased computing capabilities and features. However, their limited cooling capabilities makes thermal management a critical factor in determining performance limits. Additionally, mobile devices are battery powered devices, which raises power and battery management challenges. Sofiane have been working on proposing control techniques using modeling and machine learning to manage the different sources of power and thermal emergencies, in order to provide the best performance while respecting the phone specifications. Furthermore, he proposed a workload- and user-aware batterry lifetime management technique to improve the user experience by maximizing the performance while meeting the user desired battery lifetime.
 
 ----
