@@ -12,7 +12,7 @@ permalink: /projects/
 Funding: NSF and DoD\
 Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe \
 Collaborators:\
-XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX 
+**Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, Andrew is designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
 
 ---
 
