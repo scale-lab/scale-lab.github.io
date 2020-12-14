@@ -12,7 +12,7 @@ permalink: /projects/
 Funding: NSF and DoD\
 Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe \
 Collaborators:\
-**Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, Andrew is designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
+**Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
 
 ---
 
@@ -53,6 +53,6 @@ Funding: NSF and Samsung\
 Members: Sofiane Chetoui\
 Collaborators: Ayse Coskun\
 
-Mobile devices have become an essential part of daily life with the increased computing capabilities and features. However, their limited cooling capabilities makes thermal management a critical factor in determining performance limits. Additionally, mobile devices are battery powered devices, which raises power and battery management challenges. Sofiane have been working on proposing control techniques using modeling and machine learning to manage the different sources of power and thermal emergencies, in order to provide the best performance while respecting the phone specifications. Furthermore, he proposed a workload- and user-aware batterry lifetime management technique to improve the user experience by maximizing the performance while meeting the user desired battery lifetime.
+Mobile devices have become an essential part of daily life with the increased computing capabilities and features. However, their limited cooling capabilities makes thermal management a critical factor in determining performance limits. Additionally, mobile devices are battery powered devices, which raises power and battery management challenges. We have been working on proposing  control techniques using modeling and machine learning to manage the different sources of power and thermal emergencies, in order to provide the best performance while respecting the phone specifications. Furthermore, he proposed a workload- and user-aware batterry lifetime management technique to improve the user experience by maximizing the performance while meeting the user desired battery lifetime.
 
 ----
