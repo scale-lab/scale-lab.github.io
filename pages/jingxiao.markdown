@@ -7,4 +7,4 @@ layout: "page"
 ![](/members/jingxiao_mini.jpg)
 
 
-Jingxiao is a second-year ScM student in the Computer Science department. He received his bachelor�s degree from University of Nottingham in the United Kingdom in 2018. He is interested in approximate computing methods and machine learning. He is now working on large-scale approximate computing with boolean matrix factorization (BMF). He implements a greedy design-space exploration flow, which applies BMF algorithm to large-scale circuits. In the future, he would like to dig into the area of approximate computing and optimize design with more algorithmic techniques.
+Jingxiao is a first-year Ph.D student in the School of Engineering. He received his BSc degree of Computer Science from University of Nottingham in 2018, and MSc degree from Brown University in 2020. He is interested in approximate logic synthesis using deep learning approaches. He was previously working on large-scale approximate computing with boolean matrix factorization (BLASYS). Now he focuses on the connection between neural networks and logic synthesis, and using deep learning architectures to improve approximate computing.
