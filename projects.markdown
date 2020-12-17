@@ -14,6 +14,8 @@ Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe \
 Collaborators:\
 **Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
 
+**Approximate Logic Synthesis**: Approximate logic synthesis (ALS) is the process of synthesizing logic-level cells in the manner of approximate computing, which offers benefits in hardware metrics, such as design area and power consumption, by relaxing the requirement for full accuracy. In BLASYS project, we aims to generate approximate designs of arbitrary input circuit by using Boolean Matrix Factorization. Truth table of the input circuit is factorized into two smaller matrices, which are then synthesized and combined as approximate circuit. This idea is further extended into RunCALS, which designs runtime configurable circuits with the capability of restoring 100% accuracy.
+
 ---
 
 ![](chem.png)
