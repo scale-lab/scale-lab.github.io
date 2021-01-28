@@ -18,6 +18,10 @@ S. M. Nabavinejad, S. Reda, M. Ebrahimi\
 BatchSizer: Power-Performance Trade-off for DNN Inference\
 _IEEE Asian-South Pacific Design Automation Conference_
 
+J. Ma, S. Hashemi and S. Reda\
+[Approximate Logic Synthesis Using Boolean Matrix Factorization](https://ieeexplore.ieee.org/document/9335989)\
+_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_
+
 ---
 ### 2020
 
