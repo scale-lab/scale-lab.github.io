@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+C. Arcadia, A. Dombroski, K. Oakley, S. L. Chen, H Tann,  C. Rose, E. Kim, S. Reda, B. M. Rubenstein and J. K. Rosenstein\
+Leveraging autocatalytic reactions for chemical- domain image classification
+Journal of Chemical Science, Royal Society of Chemistry, 2021.
+
 S. Chetoui and S. Reda\
 Workload- and User-aware Battery Lifetime Management for Mobile SoCs\
 _IEEE/ACM Design Automation Test in Europe (DATE)_
