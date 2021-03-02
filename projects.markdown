@@ -8,23 +8,25 @@ permalink: /projects/
 
 ![](approx.png)
 
-### Approximate and adaptive computing for energy efficiency
+### Research Direction 1: Approximate and scalable computing for energy efficiency
 Funding: NSF and DoD\
 Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe \
 Collaborators:\
-**Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
 
-**Approximate Logic Synthesis**: Approximate logic synthesis (ALS) is the process of synthesizing logic-level cells in the manner of approximate computing, which offers benefits in hardware metrics, such as design area and power consumption, by relaxing the requirement for full accuracy. In BLASYS project, we aims to generate approximate designs of arbitrary input circuit by using Boolean Matrix Factorization. Truth table of the input circuit is factorized into two smaller matrices, which are then synthesized and combined as approximate circuit. This idea is further extended into RunCALS, which designs runtime configurable circuits with the capability of restoring 100% accuracy.
+**Project 1.1: Approximate Logic Synthesis**: Approximate logic synthesis (ALS) is the process of synthesizing logic-level cells in the manner of approximate computing, which offers benefits in hardware metrics, such as design area and power consumption, by relaxing the requirement for full accuracy. In BLASYS project, we aims to generate approximate designs of arbitrary input circuit by using Boolean Matrix Factorization. Truth table of the input circuit is factorized into two smaller matrices, which are then synthesized and combined as approximate circuit. This idea is further extended into RunCALS, which designs runtime configurable circuits with the capability of restoring 100% accuracy.
+
+**Project 1.2: Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
+
 
 ---
 
 ![](chem.png)
 
-### Emerging molecular computing paradigms
+### Research Direction 2: Emerging molecular computing paradigms
 Funding: DARPA and NSF\
 Members: Ahmed Agiza\
 Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose\
-XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX 
+In this project we are working on using molecules and chemical reactions to encode and process information. While DNA has been the stereotypical molecule, the molecular universe has millions of other molecules that can offer advantages over DNA. We are exploring the use if multi-component molecular systems (e.g., Ugi compounds) to store information at much higher density that DNA. We are also exploring the use of phenols to encode data and acetylation reactions to conduct parallel arithmetic operations.  Furthermore, we are exploring the use of auto-catalytic reactions to perform non-linear functions, such as thresholding. Using our proposed molecular systems, we have demonstrated *in chemico* image processing and classification systems.
 
 --- 
 ![](AI.png)
@@ -33,13 +35,6 @@ XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXXXXXXXXX XXXXXXX X X XXXXXXX XXXXXXXX
 Funding: NSF, DoD and Facebook\
 Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza\
 Collaborators:\
-
-**MLCompiler**: Lorem ipsum
-
-**Graph NP-Hard Problems**: Many NP-hard problems can be modeled as a graph. They appear any many application domains such as VLSI, cloud computing, social networks, and computational biology. In this project, Abdelrahman is investigating the question: can Reinforcement Learning on Graph-based environments offer alternative solutions to traditional heuristics-based algorithms? In other words, is it possible that graph heuristics can be learned and improved over time?
-
-**Migrating EDA Applications to the Cloud**: Cloud computing accelerates design space exploration in logic synthesis, and parameter tuning in physical design.
-However, deploying EDA jobs on the cloud requires EDA teams to deeply understand the characteristics of their jobs in cloud environments. In [this work](https://github.com/scale-lab/EDAonCloud), Abdelrahman has studied the performance of EDA applications when launched in a cloud-like environment. He proposed an ML-based framework that reduces cloud deployment costs up to 35.29%.
 
 **Adaptive Context-Aware Object Detection for Embedded Devices**: With the advancement in augmented reality and smart glasses, object detection became an essential task for edge devices. However, STOA object detectors have large compute and memory footprints which challenges their deployment on edge devices. In recent work, Marina has explored leveraging the prior knowledge about the probabilities that different object categories can occur jointly to increase the efficiency of object detection models. Her results shows 25% reduction in energy and memory footprint with a negligible loss in accuracy.
 
