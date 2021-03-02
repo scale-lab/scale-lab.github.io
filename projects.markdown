@@ -18,9 +18,7 @@ Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe
 
 **Project 1.3: Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
 
-**Adaptive Context-Aware Object Detection for Embedded Devices**: With the advancement in augmented reality and smart glasses, object detection became an essential task for edge devices. However, STOA object detectors have large compute and memory footprints which challenges their deployment on edge devices. In recent work, Marina has explored leveraging the prior knowledge about the probabilities that different object categories can occur jointly to increase the efficiency of object detection models. Her results shows 25% reduction in energy and memory footprint with a negligible loss in accuracy.
 
-**Low-Power Sensing for Human Activity Recognition on Wearable Devices**: Wearable devices have strict power and memory limitations. As a result, there is a need to optimize the power consumption on those devices without sacrificing the accuracy. In [AdaSense](https://ieeexplore.ieee.org/document/9218568), Marina built a sensing, feature extraction and classification co-optimized framework for Human Activity Recognition. AdaSense dynamically adjusts the sampling freuency of the sensor based on the user activity, which reduces the power consumption by up to 69%. Beyond Human Activity Recognition, the idea of dynamic sampling used in AdaSense can be applied to other applications involving different biometric sensors, cameras, etc.
 
 ---
 
@@ -36,11 +34,13 @@ Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
 --- 
 ![](AI.png)
 
-### Efficient machine learning processing for resource-constrained embedded and wearable devices
+### Research Direction 3: Efficient Embedded ML Processing
 Funding: NSF, DoD and Facebook\
 Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 
+**Project 3.1: Adaptive Context-Aware Object Detection for Embedded Devices**: With the advancement in augmented reality and smart glasses, object detection became an essential task for edge devices. However, STOA object detectors have large compute and memory footprints which challenges their deployment on edge devices. In recent work, Marina has explored leveraging the prior knowledge about the probabilities that different object categories can occur jointly to increase the efficiency of object detection models. Her results shows 25% reduction in energy and memory footprint with a negligible loss in accuracy.
 
+**Project 3.2: Low-Power Sensing for Human Activity Recognition on Wearable Devices**: Wearable devices have strict power and memory limitations. As a result, there is a need to optimize the power consumption on those devices without sacrificing the accuracy. In [AdaSense](https://ieeexplore.ieee.org/document/9218568), Marina built a sensing, feature extraction and classification co-optimized framework for Human Activity Recognition. AdaSense dynamically adjusts the sampling freuency of the sensor based on the user activity, which reduces the power consumption by up to 69%. Beyond Human Activity Recognition, the idea of dynamic sampling used in AdaSense can be applied to other applications involving different biometric sensors, cameras, etc.
 
 
 --- 
