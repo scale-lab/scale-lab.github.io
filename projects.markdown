@@ -8,7 +8,7 @@ permalink: /projects/
 
 ![](approx.png)
 
-### Research Direction 1: Efficient Embedded ML Design and Processing
+### Research Direction 1: Approximate Computing
 Funding: NSF and DoD\
 Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe
 
@@ -17,8 +17,6 @@ Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe
 **Project 1.2: Logic Synthesis Optimization**: Logic synthesis requires extensive tuning of the synthesis optimization flow where the quality of results (QoR) depends on the sequence of optimizations used. Efficient design space exploration is challenging due to the exponential number of possible optimization permutations. In [this project](https://github.com/scale-lab/DRiLLS), Abdelrahman modeled the logic synthesis optimization problem as an MDP (Markov Decision Process), and used Reinforcement Learning to provide a sequence of optimization commands that achieves outperforming QoR.
 
 **Project 1.3: Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
-
-
 
 ---
 
