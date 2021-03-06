@@ -40,6 +40,7 @@ Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 
 **Project 3.2: End-to-End Efficient Processing for Wearable Devices**: Wearable devices have strict power and memory limitations. As a result, there is a need to optimize the power consumption on those devices without sacrificing the accuracy. In [AdaSense](https://ieeexplore.ieee.org/document/9218568), we built a sensing, feature extraction and classification co-optimized framework for Human Activity Recognition. AdaSense dynamically adjusts the sampling freuency of the sensor based on the user activity, which reduces the power consumption by up to 69%. Beyond Human Activity Recognition, the idea of dynamic sampling used in AdaSense can be applied to other applications involving different biometric sensors, cameras, etc.
 
+**Project 3.3: Efficient ML Processing for Biometric Security**: Applications of Fully Convolutional Networks (FCN) in iris segmentation have shown promising advances. For mobile and embedded systems, a significant challenge is that the proposed FCN architectures are extremely computationally demanding. In this project, we propose a resource-efficient, end-to-end iris recognition flow, which consists of FCN-based segmentation, contour fitting, followed by Daugman normalization and encoding. To attain accurate and efficient FCN models, we propose a three-step SW/HW co-design methodology consisting of FCN architectural exploration, precision quantization, and hardware acceleration.
 
 --- 
 ![](hotspot.png)
