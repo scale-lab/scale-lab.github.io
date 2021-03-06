@@ -24,7 +24,7 @@ layout: home
 
 **Current Research Projects**: 
 
-* _Approximate Computing_\
+* _Approximate Computing[projects.markdown]_\
 Funding: NSF and DoD
 * _Molecular Computing_\
 Funding: DARPA and NSF
