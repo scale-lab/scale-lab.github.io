@@ -26,9 +26,9 @@ layout: home
 
 * _[Approximate Computing](projects.markdown)_\
 Funding: NSF and DoD
-* _Molecular Computing_\
+* _[Molecular Computing](projects.markdown)_\
 Funding: DARPA and NSF
-* _Efficient machine learning processing for embedded and wearable devices_\
+* _[Efficient machine learning processing for embedded and wearable devices](projects.markdown)_\
 Funding: NSF, DoD and Facebook
-* _Thermal & power modeling and management for SoCs and servers_\
+* _[Thermal & power modeling and management for SoCs and servers](projects.markdown)_\
 Funding: NSF and Samsung
