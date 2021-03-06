@@ -54,6 +54,6 @@ Collaborators: Ayse Coskun and M. Syed Nabavinejad
 **Project 4.2: Power Management and Capping for Servers:** Modern servers typically use multiple high-end CPUs and GPUs causing the power per server to add up to more than 500-100W.  Furthermore, the total power consumption of servers can add up to mega Watts of power in a typical datacenter.  In this project, we investigate novel power capping techniques for servers with CPUs and GPUs that can enable servers to maximizer performance with power cap limits. In addition we devise decentralized power capping methods for large datacenters to reduce the lag time between the introduction and application of the power cap. More recently, we focus on power management for servers that run machine learning workloads. Machine learning (ML) workloads enable a new class of power management techniques to trade-off latency, power and Quality of Results (QoR). We are currently investigating management techniques that use DVFS, precision, batch sizes, workload co-location to achieve target performance, power, and QoR.
 
 
-**Project 4:3: Thermal and Cooling Modeling for ICs:**
+**Project 4:3: Thermal and Cooling Modeling for ICs:** Our lab, in collaboration with the PEAC lab, has developed thermal modeling techniques for ICs with emerging cooling systems, including thermoelectric coolers, liquid cooling, and micro-evaporator chambers.  Enabled by parallel computing methods, our tool, PACT, performs a large range of thermal analysis techniques in very fast runtimes. 
 
 ----
