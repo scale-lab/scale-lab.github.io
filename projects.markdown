@@ -6,7 +6,6 @@ permalink: /projects/
 
 **Current Research Projects**: 
 
-![](approx.png)
 
 ### Research Direction 1: Approximate Computing
 Funding: NSF and DoD\
@@ -20,8 +19,6 @@ Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe, Abdelrahman Hosny
 
 ---
 
-![](chem.png)
-
 ### Research Direction 2: Molecular Computing
 Funding: DARPA and NSF\
 Members: Ahmed Agiza\
@@ -30,7 +27,6 @@ Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
 **Project 2.1:** In this project we are working on using molecules and chemical reactions to encode and process information. While DNA has been the stereotypical molecule, the molecular universe has millions of other molecules that can offer advantages over DNA. We are exploring the use if multi-component molecular systems (e.g., Ugi compounds) to store information at much higher density that DNA. We are also exploring the use of phenols to encode data and acetylation reactions to conduct parallel arithmetic operations.  Furthermore, we are exploring the use of auto-catalytic reactions to perform non-linear functions, such as thresholding. Using our proposed molecular systems, we have demonstrated *in chemico* image processing and classification systems.
 
 --- 
-![](AI.png)
 
 ### Research Direction 3: Efficient Embedded ML Processing
 Funding: NSF, DoD and Facebook\
@@ -43,7 +39,6 @@ Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 **Project 3.3: Efficient ML Processing for Biometric Security**: Applications of Fully Convolutional Networks (FCN) in iris segmentation have shown promising advances. For mobile and embedded systems, a significant challenge is that the proposed FCN architectures are extremely computationally demanding. In this project, we propose a resource-efficient, end-to-end iris recognition flow, which consists of FCN-based segmentation, contour fitting, followed by Daugman normalization and encoding. To attain accurate and efficient FCN models, we propose a three-step SW/HW co-design methodology consisting of FCN architectural exploration, precision quantization, and hardware acceleration.
 
 --- 
-![](hotspot.png)
 
 ### Research Direction 4: Thermal/Power Modeling and Management for Mobile and Servers
 Funding: NSF and Samsung\
