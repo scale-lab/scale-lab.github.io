@@ -444,19 +444,19 @@ _ACM/IEEE International Symposium on Microarchitecture_
 
 ### 2008
 
- C. Ferri, S. Reda and R. I. Bahar\
+P6.  C. Ferri, S. Reda and R. I. Bahar\
  [Parametric Yield Management for 3D ICs: Models and Strategies for Improvement](/pdfs/jetc08.pdf)\
  _ACM Journal on Emerging Technologies in Computing Systems_
 
- M. Kadin and S. Reda\
+P5.  M. Kadin and S. Reda\
  [Frequency and Voltage Planning for Multi-Core Processors Under Thermal Constraints](/pdfs/iccd08.pdf)\
  _International Conference on Computer Design_  
 
- M. Kadin and S. Reda\
+P4. M. Kadin and S. Reda\
  [Frequency Planning for Multi-Core Processors Under Thermal Constraints](/pdfs/islped08.pdf)\
  _International Symposium on Low Power Electronics and Design_
 
-B. Hargreaves, H. Hult and S. Reda\
+P3. B. Hargreaves, H. Hult and S. Reda\
 [Within-die Process Variations: How Accurately can They Be Statistically Modeled?](/pdfs/aspdac08.pdf)\
 _Proc. Asia-Pacific Design Automation Conference_\
 **Best Paper Candidate.**
@@ -465,21 +465,14 @@ _Proc. Asia-Pacific Design Automation Conference_\
 
 ### 2007
 
- C. Ferri, S. Reda and R. I. Bahar\
- [Strategies for Improving the Parametric Yield and Profits of 3D ICs](/pdfs/iccad07.pdf)\
-  _Proc. International Conference on Computer-Aided Design_ 
 
-D. Meisner and S. Reda\
+P2. D. Meisner and S. Reda\
 [Hardware Libraries: An Architecture for Economic Acceleration in Soft Multi-Core Environments](/pdfs/iccd07.pdf)\
 _Proc. International Conference on Computer Design_ 
 
-A. B. Kahng, S. Reda and P. Sharma\
-[On-Line Adjustable Buffering for Runtime Power Reduction](/pdfs/isqed07.pdf)\
-_Proc. International Symposium on Quality Electronic Design Automation_
-
-A. Kahng and S. Reda and Q. Wang\
-[APlace: A High Quality, Large-Scale Analytical Placer](/pdfs/aplace_chap.pdf)\
-Modern Circuit Placement: Best Practices and Results, Springer
+P1. C. Ferri, S. Reda and R. I. Bahar\
+[Strategies for Improving the Parametric Yield and Profits of 3D ICs](/pdfs/iccad07.pdf)\
+_Proc. International Conference on Computer-Aided Design_ 
 
 ---
 
