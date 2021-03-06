@@ -24,11 +24,11 @@ layout: home
 
 **Current Research Projects**: 
 
-* _Approximate and adaptive computing for energy efficiency_\
+* _Approximate Computing_\
 Funding: NSF and DoD
-* _Emerging molecular computing paradigms_\
+* _Molecular Computing_\
 Funding: DARPA and NSF
-* _Efficient machine learning processing for resource-constrained embedded and wearable devices_\
+* _Efficient machine learning processing for embedded and wearable devices_\
 Funding: NSF, DoD and Facebook
-* _Thermal & power sensing, modeling and management for mobile SoCs_\
+* _Thermal & power modeling and management for SoCs and servers_\
 Funding: NSF and Samsung
