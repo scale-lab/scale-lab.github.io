@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2021
 
 P129. C. Arcadia, A. Dombroski, K. Oakley, S. L. Chen, H Tann,  C. Rose, E. Kim, S. Reda, B. M. Rubenstein and J. K. Rosenstein\
-Leveraging autocatalytic reactions for chemical- domain image classification\
+[Leveraging autocatalytic reactions for chemical- domain image classification](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05860b#!divAbstract)\
 Journal of Chemical Science, Royal Society of Chemistry, 2021.
 
 P128. S. Chetoui and S. Reda\
