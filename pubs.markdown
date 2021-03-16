@@ -39,11 +39,11 @@ _Proc. of the IEEE_
 
 
 P122. X. Lian, S. Reda and J. Rosenstein\
-Simultaneous Estimation of Temperature and Voltage from Digital Delay Diversity\
+[Simultaneous Estimation of Temperature and Voltage from Digital Delay Diversity](https://ieeexplore.ieee.org/document/9344107/)\
 _IEEE VLSI-SoC_
 
 P121. S. Dai, C. Tulloss, X. Lian, K. Hu, S. Reda and J. Rosenstein\
-Temperature and Supply Voltage Monitoring with Current-mode Relaxation Oscillators\
+[Temperature and Supply Voltage Monitoring with Current-mode Relaxation Oscillators](https://ieeexplore.ieee.org/document/9344099)\
 _IEEE VLSI-SoC_\
 **Best paper Candidate**
 
