@@ -19,7 +19,7 @@ Characterizing and Optimizing EDA Flows for the Cloud\
 _IEEE/ACM Design Automation Test in Europe (DATE)_
 
 P126. S. M. Nabavinejad, S. Reda, M. Ebrahimi\
-BatchSizer: Power-Performance Trade-off for DNN Inference\
+[BatchSizer: Power-Performance Trade-off for DNN Inference](https://ieeexplore.ieee.org/document/9371521/)\
 _IEEE Asian-South Pacific Design Automation Conference_
 
 P125. J. Ma, S. Hashemi and S. Reda\
@@ -60,7 +60,7 @@ P118.  S. Chetoui and S. Reda\
 _IEEE Design & Test_
 
 P117.  M. Neseem, J. Nelson and S. Reda\
-[AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices](https://arxiv.org/abs/2006.05884)\
+[AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices](https://ieeexplore.ieee.org/document/9218568)\
 _IEEE/ACM Design Automation Conference_
 
 P116.  S. M. Nabavinejad, L. Mashayekhy and S. Reda\
