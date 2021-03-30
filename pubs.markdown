@@ -6,6 +6,11 @@ permalink: /pubs/
 
 ### 2021
 
+P130. A. Dombroski, K. Oakley, C. Arcadia, F. Nouraei, S. L. Chen, C. Rose, B. Rubenstein, J. Rosenstein, S. Reda, E. Kim \
+[Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing]\
+Proceedings of the Royal Society A, 2021.
+
+
 P129. C. Arcadia, A. Dombroski, K. Oakley, S. L. Chen, H Tann,  C. Rose, E. Kim, S. Reda, B. M. Rubenstein and J. K. Rosenstein\
 [Leveraging autocatalytic reactions for chemical- domain image classification](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc05860b#!divAbstract)\
 Journal of Chemical Science, Royal Society of Chemistry, 2021.
