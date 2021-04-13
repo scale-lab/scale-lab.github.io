@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+P131. Z. Yuan, P. Shukla, S. Chetoui, S. Nemtzow, S. Reda and A. Cosuk\
+PACT: An Extensible Parallel Thermal Simulator for Emerging Integration and Cooling Technologies\
+IEEE Transactions Computer-Aided Design, 2021.
+
 P130. A. Dombroski, K. Oakley, C. Arcadia, F. Nouraei, S. L. Chen, C. Rose, B. Rubenstein, J. Rosenstein, S. Reda, E. Kim \
 [Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing]\
 Proceedings of the Royal Society A, 2021.
