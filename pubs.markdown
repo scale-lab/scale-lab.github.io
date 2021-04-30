@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+P132. S. Chetoui and S. Reda\
+CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices\
+_Embedded Systems Letters, 2021_
+
 P131. Z. Yuan, P. Shukla, S. Chetoui, S. Nemtzow, S. Reda and A. Cosuk\
 PACT: An Extensible Parallel Thermal Simulator for Emerging Integration and Cooling Technologies\
 IEEE Transactions Computer-Aided Design, 2021.
