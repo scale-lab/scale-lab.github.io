@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 ---
 
+**2021:**
+* 	2021/04: Congratulations to Andrew Duncombe for successfully completing his B.Sc. Honors thesis
+
 **2020:**
 
 *	2020/09: New Facebook grant
