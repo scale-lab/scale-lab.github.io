@@ -8,19 +8,18 @@ layout: home
 
 **Recent News:**
 
+* 	2021/04: Congratulations to Andrew Duncombe for successfully completing his B.Sc. Honors thesis
 * 	2020/09: New Facebook grant
 *   2020/07: New NSF grant with [J. Rosenstein](http://rosenstein.engin.brown.edu), C. Rose, B. Rubenstein and J. Larkin
 *   2020/05: Congratulations to Jingxiao Ma for successfully completing his Sc.M. report
-*   2020/04: Congratulations to Jon Nelson for successfully completing his B.Sc. Honors thesis
-*   2020/03: DATE Best paper nomination with [A. Coskun](https://www.bu.edu/eng/profile/ayse-coskun/) from BU 
 
 **Recent Papers:**
 
+* _Embedded Systems Letters'21_ -- CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices
+* _Royal Society A_ -- Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing
+* _Chemical Science_ -- Leveraging autocatalytic reactions for chemical- domain image classification
 * _Proc. of the IEEE_ -- Approximate Logic Synthesis: A Survey
-* _VLSI-SoC'20_ -- Simultaneous Estimation of Temperature and Voltage from Digital Delay Diversity
-* _DAC'20_ -- AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices
 * _Nature Communications_ -- Multicomponent Molecular Memory
-* _ASPDAC'20_ -- DRiLLS: Deep Reinforcement Learning for Logic Synthesis
 
 **Current Research Projects**: 
 
