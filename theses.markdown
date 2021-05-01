@@ -41,6 +41,10 @@ Shuchen Zheng, April 2016
 
 # BSc  Theses
 
+
+ASPENN: Approximate Spike Encoding Neural Networks\
+Andrew Duncombe, 2021
+
 Robust Gait Recognition Techniques for Wearable Devices\
 Jon Nelson, May 2020
 
