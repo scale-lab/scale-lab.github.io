@@ -7,15 +7,15 @@ permalink: /pubs/
 ### 2021
 
 P132. S. Chetoui and S. Reda\
-CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices\
+[CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices](https://ieeexplore.ieee.org/document/9430594)\
 _Embedded Systems Letters, 2021_
 
 P131. Z. Yuan, P. Shukla, S. Chetoui, S. Nemtzow, S. Reda and A. Cosuk\
-PACT: An Extensible Parallel Thermal Simulator for Emerging Integration and Cooling Technologies\
+[PACT: An Extensible Parallel Thermal Simulator for Emerging Integration and Cooling Technologies](https://ieeexplore.ieee.org/document/9428622)\
 IEEE Transactions Computer-Aided Design, 2021.
 
 P130. A. Dombroski, K. Oakley, C. Arcadia, F. Nouraei, S. L. Chen, C. Rose, B. Rubenstein, J. Rosenstein, S. Reda, E. Kim \
-[Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing]\
+[Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0899)\
 Proceedings of the Royal Society A, 2021.
 
 
