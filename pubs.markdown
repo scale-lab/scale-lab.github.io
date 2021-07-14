@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+P133. M. Neseem and S. Reda\
+AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices
+ACM/IEEE International Conference on Computer-Aided Design, 2021.
+
 P132. S. Chetoui and S. Reda\
 [CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices](https://ieeexplore.ieee.org/document/9430594)\
 _Embedded Systems Letters, 2021_
