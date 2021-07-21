@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+P134. J. Ma and S. Reda\
+RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability
+International Workshop on Logic & Synthesis, 2021.
+
 P133. M. Neseem and S. Reda\
 AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices
 ACM/IEEE International Conference on Computer-Aided Design, 2021.
