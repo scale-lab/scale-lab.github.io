@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2021
 
 P134. J. Ma and S. Reda\
-RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability
+RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
 International Workshop on Logic & Synthesis, 2021.
 
 P133. M. Neseem and S. Reda\
