@@ -11,8 +11,8 @@ RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
 International Workshop on Logic & Synthesis, 2021.
 
 P133. M. Neseem and S. Reda\
-AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices
-ACM/IEEE International Conference on Computer-Aided Design, 2021.
+AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices\
+_ACM/IEEE International Conference on Computer-Aided Design, 2021_ [video](https://www.youtube.com/watch?v=O0srJGVnfQM)
 
 P132. S. Chetoui and S. Reda\
 [CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices](https://ieeexplore.ieee.org/document/9430594)\
@@ -82,7 +82,7 @@ _IEEE Design & Test_
 
 P117.  M. Neseem, J. Nelson and S. Reda\
 [AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices](https://ieeexplore.ieee.org/document/9218568)\
-_IEEE/ACM Design Automation Conference_
+_IEEE/ACM Design Automation Conference_ [video](https://www.youtube.com/watch?v=n0jJ8tgCJ0k&t=318s)
 
 P116.  S. M. Nabavinejad, L. Mashayekhy and S. Reda\
 [ApproxDNN: Incentivizing DNN Approximation in Cloud](https://ieeexplore.ieee.org/document/9139687)\
