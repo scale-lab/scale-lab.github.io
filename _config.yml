@@ -23,7 +23,7 @@ email: sherief_reda@brown.edu
 description: # this means to ignore newlines until "baseurl:"
   SCALE lab, School of Engineering, Brown University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://scale.engin.brown.edu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scale.engin.brown.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sheriefreda
 github_username:  scale-lab
 
