@@ -32,6 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+lang: en
+tagline: >
+  "Research, teaching and projects at SCALE lab, Brown University"
+
+keywords: ['sherief', 'reda', 'scale', 'lab', 'brown', 'university', 'machine learning', 'artificial intelligence', 'research', 'software', 'open source', 'deep learning', 'power', 'energy', 'efficiency', 'neural', 'networks', 'mobile']
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
