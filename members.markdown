@@ -17,6 +17,8 @@ permalink: /members/
 
 **Prior Members:**
 
+*   **Summer 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc), Rahul Shah (Bsc)
+
 *   **Spring 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc), Jason Ho (Bsc)
 
 * * *
