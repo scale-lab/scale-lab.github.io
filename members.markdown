@@ -17,18 +17,18 @@ permalink: /members/
 
 **Prior Members:**
 
-*   **Spring 2021:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc), Jason Ho (Bsc)
+*   **Spring 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc), Jason Ho (Bsc)
 
 * * *
 
-*   **Fall 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc)
-*   **Summer 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), BahaaAlDeen M. AboAlNaga (visiting ScM), Andrew Duncombe (BSc)
-*   **Spring 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (ScM), Jon Nelson (BSc)
+*   **Fall 2020:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc)
+*   **Summer 2020:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), BahaaAlDeen M. AboAlNaga (visiting ScM), Andrew Duncombe (BSc)
+*   **Spring 2020:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (ScM), Jon Nelson (BSc)
 
 * * *
 
 
-*   **Fall 2019:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Marina Neseem (PhD), A. Agiza (PhD), R. Esfandiarpoor (PhD), Jingxiao Ma (ScM), Andey Donzelli (ScM), Min Joeng Kang (ScM), Jon Nelson (BSc)
+*   **Fall 2019:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Marina Neseem (PhD), A. Agiza (PhD), R. Esfandiarpoor (PhD), Jingxiao Ma (ScM), Andey Donzelli (ScM), Min Joeng Kang (ScM), Jon Nelson (BSc)
 *   **Summer 2019:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Jingxiao Ma (ScM), Andey Donzelli (ScM), Min Joeng Kang (ScM), Jon Nelson (BSc).
 *   **Spring 2019:** Soheil Hashimi (postdoc), Hokchhay Tran (PhD), Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Krishna Rajan (BSc), Marina Neseem (intern).
 
