@@ -10,14 +10,18 @@ permalink: /members/
 
 ![](/members/marina_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
 
-![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](/members/duncombe_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Andrew Duncombe]({% link pages/duncombe.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
 
 
 
 **Prior Members:**
 
+*   **Spring 2021:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc), Jason Ho (Bsc)
+
+* * *
+
+*   **Fall 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Andrew Duncombe (BSc)
 *   **Summer 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), BahaaAlDeen M. AboAlNaga (visiting ScM), Andrew Duncombe (BSc)
 *   **Spring 2020:**Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Farnaz Nouraei (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (ScM), Jon Nelson (BSc)
 
