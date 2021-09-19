@@ -1,7 +1,7 @@
 ---
- layout: page
- title: Classes
- permalink: /classes/
+layout: page
+title: Classes
+permalink: /classes/
  ---
 
  | Level  | Class Code | Title
