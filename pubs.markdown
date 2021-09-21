@@ -6,9 +6,13 @@ permalink: /pubs/
 
 ### 2021
 
+P135. A. Hosny<sup>\*</sup>, M.Nessem<sup>\*</sup> and S. Reda\
+Sparse Bitmap Compression for Memory-Efficient Training on the Edge\
+_ACM/IEEE Symposium on Edge Computing (SEC), 2021._
+
 P134. J. Ma and S. Reda\
 RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
-International Workshop on Logic & Synthesis, 2021.
+_International Workshop on Logic & Synthesis, 2021._
 
 P133. M. Neseem and S. Reda\
 AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices\
