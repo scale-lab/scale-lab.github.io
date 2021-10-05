@@ -31,3 +31,6 @@ Funding: DARPA and NSF
 Funding: NSF, DoD and Facebook
 * _[Thermal & power modeling and management for SoCs and servers](projects.markdown)_\
 Funding: NSF and Samsung
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KZ6ZCNHSFL"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/analytics.js"></script>
