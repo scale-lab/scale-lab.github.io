@@ -39,6 +39,7 @@ tagline: >
 keywords: ['sherief reda', 'scale', 'lab', 'brown', 'university', 'machine learning', 'artificial intelligence', 'research', 'software', 'open source', 'deep learning', 'power', 'energy', 'efficiency', 'neural', 'networks', 'mobile']
 
 google_analytics: G-KZ6ZCNHSFL
+environment: production
 
 # Exclude from processing.
 # The following items will not be processed, by default.
