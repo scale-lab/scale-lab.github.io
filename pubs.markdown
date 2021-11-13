@@ -6,12 +6,16 @@ permalink: /pubs/
 
 ### 2021
 
-P136. A. Hosny, S. Reda\
+P137. S. M. Nabavinejad and  S. Reda\
+BayesTuner: Leveraging Bayesian Optimization For DNN Inference Configuration Selection\
+_IEEE Computer Architecture Letters_
+
+P136. A. Hosny and S. Reda\
 Characterizing and Optimizing EDA Flows for the Cloud\
 _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_. [IEEE Xplore](https://ieeexplore.ieee.org/document/9576518)
 
 
-P135. A. Hosny<sup>\*</sup>, M.Nessem<sup>\*</sup> and S. Reda\
+P135. A. Hosny, M. Neseem and S. Reda\
 Sparse Bitmap Compression for Memory-Efficient Training on the Edge\
 _ACM/IEEE Symposium on Edge Computing (SEC), 2021._
 
