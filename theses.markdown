@@ -33,7 +33,7 @@ Ryan Cochran, July 2012
 
 # ScM Theses & Reports
 
-Approximate Logic Synthesis Using Boolean Matrix Factorization\
+[Approximate Logic Synthesis Using Boolean Matrix Factorization](/pdfs/jingxiao.pdf)\
 Jingxiao MA, May 2020
 
 [Maximizing the performance of Parallel Applications on Heterogeneous CPU-FPGA System](/pdfs/Shuchen's_thesis.pdf)\
@@ -42,10 +42,10 @@ Shuchen Zheng, April 2016
 # BSc  Theses
 
 
-ASPENN: Approximate Spike Encoding Neural Networks\
+[ASPENN: Approximate Spike Encoding Neural Networks](/pdfs/andrew.pdf)\
 Andrew Duncombe, 2021
 
-Robust Gait Recognition Techniques for Wearable Devices\
+[Robust Gait Recognition Techniques for Wearable Devices](/pdfs/Nelson.pdf/\
 Jon Nelson, May 2020
 
 
