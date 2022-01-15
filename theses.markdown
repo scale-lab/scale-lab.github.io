@@ -45,7 +45,7 @@ Shuchen Zheng, April 2016
 [ASPENN: Approximate Spike Encoding Neural Networks](/pdfs/andrew.pdf)\
 Andrew Duncombe, 2021
 
-[Robust Gait Recognition Techniques for Wearable Devices](/pdfs/Nelson.pdf/\
+[Robust Gait Recognition Techniques for Wearable Devices](/pdfs/Nelson.pdf)/\
 Jon Nelson, May 2020
 
 
