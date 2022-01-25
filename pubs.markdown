@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2021
 
+P138. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
+Coordinated Batching and DVFS for DNN Inference on GPU Accelerators\
+_IEEE Transactions on Parallel and Distributed Systems_
+
 P137. S. M. Nabavinejad and  S. Reda\
 BayesTuner: Leveraging Bayesian Optimization For DNN Inference Configuration Selection\
 _IEEE Computer Architecture Letters_
