@@ -12,12 +12,14 @@ permalink: /members/
 
 ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/jason_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jason Ho]({% link pages/jason.markdown %}) 
 
-![](/members/rahul_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Rahul Shah]({% link pages/rahul.markdown %})
+![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})
 
 
 
 
 **Prior Members:**
+
+*   **Fall 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Rahul Shah (Bsc), Jason Ho (Bsc)
 
 *   **Summer 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Rahul Shah (Bsc)
 
