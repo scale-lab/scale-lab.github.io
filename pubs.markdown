@@ -10,6 +10,10 @@ P138. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
 Coordinated Batching and DVFS for DNN Inference on GPU Accelerators\
 _IEEE Transactions on Parallel and Distributed Systems_
 
+P139. S. Chetoui, M. Chen, A. Golas, F. Hijaz, A. Belouchrani and S. Reda\
+Alternating Blind Identification of Power Sources for Mobile SoCs\
+_ACM/SPEC International Conference on Performance Engineering_
+
 ---
 
 ### 2021
