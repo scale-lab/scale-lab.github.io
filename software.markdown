@@ -15,7 +15,8 @@ permalink: /software/
 |[ABACUS](https://github.com/scale-lab/ABACUS) | A tool for high-level synthesis of approximate circuits|
 |[PVTSensors](https://github.com/scale-lab/PVTSensors) | A design package for process, voltage and thermal sensors|
 |[DRUM](https://github.com/scale-lab/DRUM)| A design package for approximate multipliers|
-|[BPI](https://github.com/scale-lab/BPI)| A tool for bliond power identification from thermal sensor measurements|
+|[Alternating-BPI](https://github.com/scale-lab/Alternating-Blind-Identification)| A tool for alternating blind power identification from thermal sensor measurements|
+|[BPI](https://github.com/scale-lab/BPI)| A tool for blind power identification from thermal sensor measurements|
 |[LACore](https://github.com/scale-lab/la-core)| Simulation/Compilation tool chain for a linear algebra RISC-V accelerator|
 |[clusterSoCBench](https://github.com/scale-lab/clusterSoCBench) | A set of benchmarks to stress GPGPU accelerated cluster of ARM SoCs|
 |[CAB](https://github.com/scale-lab/CAB)| power capping  resource manager for big data processing|
