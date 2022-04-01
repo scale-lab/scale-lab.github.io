@@ -33,8 +33,7 @@ plugins:
   - jekyll-feed
 
 lang: en
-tagline: >
-  "Sherief Reda | SCALE lab | Brown University"
+tagline: Sherief Reda | SCALE lab | Brown University
 
 keywords: ['sherief reda', 'scale', 'lab', 'brown', 'university', 'machine learning', 'artificial intelligence', 'research', 'software', 'open source', 'deep learning', 'power', 'energy', 'efficiency', 'neural', 'networks', 'mobile']
 
