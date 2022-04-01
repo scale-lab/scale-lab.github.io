@@ -21,9 +21,9 @@
 title: SCALE lab 
 email: sherief_reda@brown.edu
 description: # this means to ignore newlines until "baseurl:"
-  Sherief Reda, SCALE lab, School of Engineering, Brown University.
+  Scalable Energy-Efficient Laboratory (SCALE) at School of Engineering, Brown University. PI: Sherief Reda. Lab members, publications, software tools, alumni.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scale.engin.brown.edu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scale-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sheriefreda
 github_username:  scale-lab
 
