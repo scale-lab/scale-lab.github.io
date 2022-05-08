@@ -1,3 +1,3 @@
 # scale_site
 
-Markdown code for lab website http://scale.engin.brown.edu. To compile to HTML, please install Jekyll.
+Markdown code for lab website SCALE website. To compile to HTML, please install Jekyll.
