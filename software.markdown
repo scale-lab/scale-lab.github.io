@@ -7,6 +7,7 @@ permalink: /software/
 
 |Tool | Description|
 |----|----|
+|[ARBench](https://github.com/scale-lab/ARBench) | Augmented Reality Benchmark set|
 |[BACS](https://github.com/scale-lab/BACS) | Benchmark set for approximate circuits|
 |[OpenPhySyn](https://github.com/scale-lab/OpenPhySyn) | An EDA tool for physical synthesis to optimize timing|
 |[DRiLLS](https://github.com/scale-lab/DRILLS) | Reinforcement learning agent for logic synthesis optimization|
