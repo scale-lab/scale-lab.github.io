@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2022
 
 P140. S. Chetoui, R. Shah, S. Abdelaziz, A. Golas, F. Hijaz and S. Reda\
-[ARBench: Augmented Reality Benchmark For Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9804625/)
+[ARBench: Augmented Reality Benchmark For Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9804625/)\
 _IEEE Symposium on Performance Analysis of Systems and Software (ISPASS)_
 
 P139. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
