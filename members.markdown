@@ -6,11 +6,11 @@ permalink: /members/
 
 ![](/members/sreda_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
 
-![](/members/sofiane_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Sofiane Chetoui]({% link pages/sofiane.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](/members/abdelrahman_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![](/members/abdelrahman_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Abdelrahman Hosny]({% link pages/abdelrahman.markdown %})
 
 ![](/members/marina_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})
 
-![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/jason_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jason Ho]({% link pages/jason.markdown %}) 
+![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})
 
