@@ -6,6 +6,9 @@ permalink: /theses/
 
 # PhD Theses
 
+[Thermal and Power Sensing and Management for Mobile System-On-a-Chip](http://scale-lab.github.io/pdfs/sofiane.pdf)\
+Sofiane Chetoui, May 2022
+
 [Hardware-Software Co-design of Resource-Efficient Deep Neural Networks](http://scale-lab.github.io/pdfs/chhay.pdf)\
 Hokchhay Tann, May 2019
 
@@ -41,6 +44,8 @@ Shuchen Zheng, April 2016
 
 # BSc  Theses
 
+[Tools for Understanding the Computational Behavior of Biofilms](http://scale-lab.github.io/pdfs/jason.pdf)\
+Jason Ho, 2022
 
 [ASPENN: Approximate Spike Encoding Neural Networks](http://scale-lab.github.io/pdfs/andrew.pdf)\
 Andrew Duncombe, 2021
