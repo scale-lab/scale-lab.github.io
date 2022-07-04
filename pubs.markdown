@@ -11,11 +11,11 @@ P140. S. Chetoui, R. Shah, S. Abdelaziz, A. Golas, F. Hijaz and S. Reda\
 _IEEE Symposium on Performance Analysis of Systems and Software (ISPASS)_
 
 P139. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
-Coordinated Batching and DVFS for DNN Inference on GPU Accelerators\
+[Coordinated Batching and DVFS for DNN Inference on GPU Accelerators](https://ieeexplore.ieee.org/document/9689937)\
 _IEEE Transactions on Parallel and Distributed Systems_
 
 P138. S. Chetoui, M. Chen, A. Golas, F. Hijaz, A. Belouchrani and S. Reda\
-Alternating Blind Identification of Power Sources for Mobile SoCs\
+[Alternating Blind Identification of Power Sources for Mobile SoCs](https://dl.acm.org/doi/abs/10.1145/3489525.3511676)\
 _ACM/SPEC International Conference on Performance Engineering_
 
 ---
