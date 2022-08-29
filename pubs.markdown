@@ -6,15 +6,20 @@ permalink: /pubs/
 
 ### 2022
 
-P140. S. Chetoui, R. Shah, S. Abdelaziz, A. Golas, F. Hijaz and S. Reda\
+P140. P136. A. Hosny and S. Reda\
+[Characterizing and Optimizing EDA Flows for the Cloud](https://ieeexplore.ieee.org/document/9576518)\
+_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_. 
+
+
+P139. S. Chetoui, R. Shah, S. Abdelaziz, A. Golas, F. Hijaz and S. Reda\
 [ARBench: Augmented Reality Benchmark For Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9804625/)\
 _IEEE Symposium on Performance Analysis of Systems and Software (ISPASS)_
 
-P139. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
+P138. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
 [Coordinated Batching and DVFS for DNN Inference on GPU Accelerators](https://ieeexplore.ieee.org/document/9689937)\
 _IEEE Transactions on Parallel and Distributed Systems_
 
-P138. S. Chetoui, M. Chen, A. Golas, F. Hijaz, A. Belouchrani and S. Reda\
+P137. S. Chetoui, M. Chen, A. Golas, F. Hijaz, A. Belouchrani and S. Reda\
 [Alternating Blind Identification of Power Sources for Mobile SoCs](https://dl.acm.org/doi/abs/10.1145/3489525.3511676)\
 _ACM/SPEC International Conference on Performance Engineering_
 
@@ -23,13 +28,9 @@ _ACM/SPEC International Conference on Performance Engineering_
 ### 2021
 
 
-P137. S. M. Nabavinejad and  S. Reda\
+P136. S. M. Nabavinejad and  S. Reda\
 BayesTuner: Leveraging Bayesian Optimization For DNN Inference Configuration Selection\
 _IEEE Computer Architecture Letters_
-
-P136. A. Hosny and S. Reda\
-[Characterizing and Optimizing EDA Flows for the Cloud](https://ieeexplore.ieee.org/document/9576518)\
-_IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_. 
 
 
 P135. A. Hosny, M. Neseem and S. Reda\
