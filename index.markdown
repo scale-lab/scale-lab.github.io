@@ -21,6 +21,10 @@ layout: home
 * _Proc. of the IEEE_ -- Approximate Logic Synthesis: A Survey
 * _Nature Communications_ -- Multicomponent Molecular Memory
 
+**Recent Videos:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLk3xzvxwG7ZZK2A6xth1HTzpYE9OgPpZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Current Research Projects**: 
 
 * _[Approximate Computing](projects.markdown)_\
@@ -31,4 +35,6 @@ Funding: DARPA and NSF
 Funding: NSF, DoD and Facebook
 * _[Thermal & power modeling and management for SoCs and servers](projects.markdown)_\
 Funding: NSF and Samsung
+
+
 
