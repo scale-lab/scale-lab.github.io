@@ -34,7 +34,7 @@ Funding: NSF and Samsung
 
 **Recent Videos:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLk3xzvxwG7ZZK2A6xth1HTzpYE9OgPpZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/videoseries?list=PLk3xzvxwG7ZZK2A6xth1HTzpYE9OgPpZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
