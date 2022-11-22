@@ -8,7 +8,7 @@ layout: home
 
 **Recent News:**
 
-* 	2022/05: Prof. Reda elevated to IEEE Fellow for contributions to energy-efficient and approximate computing
+* 	2022/11: Prof. Reda elevated to IEEE Fellow for contributions to energy-efficient and approximate computing
 * 	2022/05: Congratulations to Dr. Sofiane Chetoui for successfully completing his Ph.D. thesis
 * 	2022/05: Congratulations to Jason Ho for successfully completing his B.Sc. Honors 	
 * 	2021/04: Congratulations to Andrew Duncombe for successfully completing his B.Sc. Honors
