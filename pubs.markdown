@@ -4,9 +4,17 @@ title: Publications
 permalink: /pubs/
 ---
 
+### 2023
+
+P141. J. Ma and S. Reda\
+RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
+_IEEE Asia and South Pacific Design Automation Conference_
+
+---
+
 ### 2022
 
-P140. P136. A. Hosny and S. Reda\
+P140. A. Hosny and S. Reda\
 [Characterizing and Optimizing EDA Flows for the Cloud](https://ieeexplore.ieee.org/document/9576518)\
 _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_. 
 
