@@ -17,7 +17,7 @@ layout: home
 
 * _Embedded Systems Letters'21_ -- CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices
 * _Royal Society A_ -- Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing
-* _Chemical Science_ -- Leveraging autocatalytic reactions for chemical- domain image classification
+* _ICCAD_ -- AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices
 * _Proc. of the IEEE_ -- Approximate Logic Synthesis: A Survey
 * _Nature Communications_ -- Multicomponent Molecular Memory
 
@@ -25,12 +25,11 @@ layout: home
 
 * _[Approximate Computing](projects.markdown)_\
 Funding: NSF and DoD
+* _[Efficient machine learning processing for Edge Devices](projects.markdown)_\
+Funding: NSF, DoD and Facebook
+* _[Machine Learning for Combinatorial Optimization](projects.markdown)_\
 * _[Molecular Computing](projects.markdown)_\
 Funding: DARPA and NSF
-* _[Efficient machine learning processing for embedded and wearable devices](projects.markdown)_\
-Funding: NSF, DoD and Facebook
-* _[Thermal & power modeling and management for SoCs and servers](projects.markdown)_\
-Funding: NSF and Samsung
 
 **Recent Videos:**
 
