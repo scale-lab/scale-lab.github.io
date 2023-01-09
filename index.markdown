@@ -24,12 +24,10 @@ layout: home
 **Current Research Projects**: 
 
 * _[Approximate Computing](projects.markdown)_\
-Funding: NSF and DoD
-* _[Efficient machine learning processing for Edge Devices](projects.markdown)_\
-Funding: NSF, DoD and Facebook
+* _[Efficient Machine Learning for Edge Devices](projects.markdown)_\
 * _[Machine Learning for Combinatorial Optimization](projects.markdown)_\
 * _[Molecular Computing](projects.markdown)_\
-Funding: DARPA and NSF
+
 
 **Recent Videos:**
 
