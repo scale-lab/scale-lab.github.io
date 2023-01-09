@@ -23,10 +23,10 @@ layout: home
 
 **Current Research Projects**: 
 
-* _[Approximate Computing](projects.markdown)
-* _[Efficient Machine Learning for Edge Devices](projects.markdown)
-* _[Machine Learning for Combinatorial Optimization](projects.markdown)
-* _[Molecular Computing](projects.markdown)
+* _[Approximate Computing](projects.markdown)_
+* _[Efficient Machine Learning for Edge Devices](projects.markdown)_
+* _[Machine Learning for Combinatorial Optimization](projects.markdown)_
+* _[Molecular Computing](projects.markdown)_
 
 
 **Recent Videos:**
