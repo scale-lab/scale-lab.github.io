@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2023
 
 P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel and S. Reda\
-[Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4ti)\
+[Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4tiK)\
 _Nature Communications_
 
 P141. J. Ma and S. Reda\
