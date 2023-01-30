@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2023
 
+P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel, and S. Reda\
+[Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4ti)\
+_Nature Communications_
+
 P141. J. Ma and S. Reda\
 RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
 _IEEE Asia and South Pacific Design Automation Conference_
