@@ -6,7 +6,7 @@ permalink: /pubs/
 
 ### 2023
 
-P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel, and S. Reda\
+P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel and S. Reda\
 [Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4ti)\
 _Nature Communications_
 
