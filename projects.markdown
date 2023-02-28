@@ -7,28 +7,7 @@ permalink: /projects/
 **Current Research Projects**: 
 
 
-### Research Direction 1: Approximate Computing
-Funding: NSF and DoD\
-Members:  Jingxiao Ma, Marina Neseem, Andrew Duncombe, Abdelrahman Hosny
-
-**Project 1.1: Approximate Logic Synthesis**: Approximate logic synthesis (ALS) is the process of synthesizing logic-level cells in the manner of approximate computing, which offers benefits in hardware metrics, such as design area and power consumption, by relaxing the requirement for full accuracy. In BLASYS project, we aims to generate approximate designs of arbitrary input circuit by using Boolean Matrix Factorization. Truth table of the input circuit is factorized into two smaller matrices, which are then synthesized and combined as approximate circuit. This idea is further extended into RunCALS, which designs runtime configurable circuits with the capability of restoring 100% accuracy.  Furthermore, logic synthesis requires extensive tuning of the synthesis optimization flow where the quality of results (QoR) depends on the sequence of optimizations used. Efficient design space exploration is challenging due to the exponential number of possible optimization permutations. In [DRILLS](https://github.com/scale-lab/DRiLLS), we model the logic synthesis optimization problem as an MDP (Markov Decision Process), and used Reinforcement Learning to provide a sequence of optimization commands that achieves outperforming QoR.
-
-**Project 1.2: Approximate Arithmetic Units**: For arithmetic circuit building blocks, we are investigating approximate units for basic building blocks, such as adders, multipliers and dividers. We proposed DRUM, which is a novel approxi- mate multiplier with an unbiased dynamic-range selection scheme.  DRUM has the unique property that it has an unbiased error distribution, which leads to lower computational errors in real applications because errors cancel each other out as the multiplier is used repeatedly for accumulated computations. We extended our dynamic range selection idea to devise approximate dividers that dynamically select the most relevant bits of each of the division operands.  Both DRUM and our divider enable designers to arbitrarily trade-off accuracy for power and area savings during the design process based on their accuracy requirements. We are currently investigate approximate design for multi-operand adders typically using neuran networks.
-
-**Project 1.3: Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
-
----
-
-### Research Direction 2: Molecular Computing
-Funding: DARPA and NSF\
-Members: Ahmed Agiza\
-Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
-
-**Project 2.1:** In this project we are working on using molecules and chemical reactions to encode and process information. While DNA has been the stereotypical molecule, the molecular universe has millions of other molecules that can offer advantages over DNA. We are exploring the use if multi-component molecular systems (e.g., Ugi compounds) to store information at much higher density that DNA. We are also exploring the use of phenols to encode data and acetylation reactions to conduct parallel arithmetic operations.  Furthermore, we are exploring the use of auto-catalytic reactions to perform non-linear functions, such as thresholding. Using our proposed molecular systems, we have demonstrated *in chemico* image processing and classification systems.
-
---- 
-
-### Research Direction 3: Efficient Embedded ML Processing
+### Research Direction 1: Chip HW/SW Co-Design for AI
 Funding: NSF, DoD and Facebook\
 Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 
@@ -39,6 +18,29 @@ Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 **Project 3.3: Efficient ML Processing for Biometric Security**: Applications of Fully Convolutional Networks (FCN) in iris segmentation have shown promising advances. For mobile and embedded systems, a significant challenge is that the proposed FCN architectures are extremely computationally demanding. In this project, we propose a resource-efficient, end-to-end iris recognition flow, which consists of FCN-based segmentation, contour fitting, followed by Daugman normalization and encoding. To attain accurate and efficient FCN models, we propose a three-step SW/HW co-design methodology consisting of FCN architectural exploration, precision quantization, and hardware acceleration.
 
 --- 
+
+
+### Research Direction 2: Approximate Computing
+Funding: NSF and DoD\
+Members:  Jingxiao Ma, Marina Neseem, Abdelrahman Hosny
+
+**Project 1.1: Approximate Logic Synthesis**: Approximate logic synthesis (ALS) is the process of synthesizing logic-level cells in the manner of approximate computing, which offers benefits in hardware metrics, such as design area and power consumption, by relaxing the requirement for full accuracy. In BLASYS project, we aims to generate approximate designs of arbitrary input circuit by using Boolean Matrix Factorization. Truth table of the input circuit is factorized into two smaller matrices, which are then synthesized and combined as approximate circuit. This idea is further extended into RunCALS, which designs runtime configurable circuits with the capability of restoring 100% accuracy.  Furthermore, logic synthesis requires extensive tuning of the synthesis optimization flow where the quality of results (QoR) depends on the sequence of optimizations used. Efficient design space exploration is challenging due to the exponential number of possible optimization permutations. In [DRILLS](https://github.com/scale-lab/DRiLLS), we model the logic synthesis optimization problem as an MDP (Markov Decision Process), and used Reinforcement Learning to provide a sequence of optimization commands that achieves outperforming QoR.
+
+**Project 1.2: Approximate Arithmetic Units**: For arithmetic circuit building blocks, we are investigating approximate units for basic building blocks, such as adders, multipliers and dividers. We proposed DRUM, which is a novel approxi- mate multiplier with an unbiased dynamic-range selection scheme.  DRUM has the unique property that it has an unbiased error distribution, which leads to lower computational errors in real applications because errors cancel each other out as the multiplier is used repeatedly for accumulated computations. We extended our dynamic range selection idea to devise approximate dividers that dynamically select the most relevant bits of each of the division operands.  Both DRUM and our divider enable designers to arbitrarily trade-off accuracy for power and area savings during the design process based on their accuracy requirements. We are currently investigate approximate design for multi-operand adders typically using neuran networks.
+
+**Project 1.3: Spiking Neural Networks**: Spiking neural networks (SNNs) are a recently developed neural network architecture that aims to emulate the brain in order to improve energy efficiency. SNNs are inherently resilient to even computation errors, which implies that approximate computing methods may be an effective strategy to improving performance. In this project, we are designing a novel approximate SNN neuron to improve the efficiency of the spiking neuron computation by using adder tree approximations and a novel weight summation unit.
+
+---
+
+### Research Direction 3: Molecular Computing
+Funding: DARPA and NSF\
+Members: Ahmed Agiza\
+Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
+
+**Project 2.1:** In this project we are working on using molecules and chemical reactions to encode and process information. While DNA has been the stereotypical molecule, the molecular universe has millions of other molecules that can offer advantages over DNA. We are exploring the use if multi-component molecular systems (e.g., Ugi compounds) to store information at much higher density that DNA. We are also exploring the use of phenols to encode data and acetylation reactions to conduct parallel arithmetic operations.  Furthermore, we are exploring the use of auto-catalytic reactions to perform non-linear functions, such as thresholding. Using our proposed molecular systems, we have demonstrated *in chemico* image processing and classification systems.
+
+--- 
+
 
 ### Research Direction 4: Thermal/Power Modeling and Management for Mobile and Servers
 Funding: NSF and Samsung\
