@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2023
 P143. M. Neseem , A. Agiza, S. Reda\
 [AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning](https://arxiv.org/pdf/2304.08594.pdf)\
-_Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023_.
+_Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (ECV Workshop)_.
 
 P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel and S. Reda\
 [Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4tiK)\
