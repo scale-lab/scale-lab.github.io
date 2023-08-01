@@ -6,7 +6,7 @@ permalink: /pubs/
 
 ### 2023
 P144. A. Hosny, S. Reda\
-[Automatic MILP solver configuration by learning problem similarities](https://rdcu.be/dgSRv)\
+[Automatic MILP Solver Configuration by Learning Problem Similarities](https://rdcu.be/dgSRv)\
 _Annals of Operations Research (2023)_.
 
 P143. M. Neseem , A. Agiza, S. Reda\
