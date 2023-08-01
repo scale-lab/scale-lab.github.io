@@ -5,6 +5,10 @@ permalink: /pubs/
 ---
 
 ### 2023
+P144. A. Hosny, S. Reda\
+[Automatic MILP solver configuration by learning problem similarities](https://rdcu.be/dgSRv)\
+_Annals of Operations Research (2023)_.
+
 P143. M. Neseem , A. Agiza, S. Reda\
 [AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning](https://arxiv.org/pdf/2304.08594.pdf)\
 _Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (ECV Workshop)_.
