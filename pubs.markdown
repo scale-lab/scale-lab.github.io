@@ -5,6 +5,10 @@ permalink: /pubs/
 ---
 
 ### 2023
+P145. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
+GraPhSyM: Graph Physical Synthesis Model\
+_Proceedings of the 42nd International Conference on Computer-Aided Design (ICCAD), 2023._
+
 P144. A. Hosny, S. Reda\
 [Automatic MILP Solver Configuration by Learning Problem Similarities](https://rdcu.be/dgSRv)\
 _Annals of Operations Research (2023)_.
