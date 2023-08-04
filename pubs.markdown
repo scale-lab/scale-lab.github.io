@@ -5,6 +5,10 @@ permalink: /pubs/
 ---
 
 ### 2023
+P146. J. Ma and S. Reda\
+WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference\
+_ACM/IEEE International Symposium on Low Power Electronics and Design, 2023._
+
 P145. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
 GraPhSyM: Graph Physical Synthesis Model\
 _Proceedings of the 42nd International Conference on Computer-Aided Design (ICCAD), 2023._
@@ -23,7 +27,7 @@ _Nature Communications_
 
 P141. J. Ma and S. Reda\
 RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
-_IEEE Asia and South Pacific Design Automation Conference_
+_IEEE Asia and South Pacific Design Automation Conference, 2023._
 
 ---
 
