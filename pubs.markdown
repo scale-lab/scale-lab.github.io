@@ -10,7 +10,7 @@ WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient In
 _ACM/IEEE International Symposium on Low Power Electronics and Design, 2023._
 
 P145. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
-GraPhSyM: Graph Physical Synthesis Model\
+[GraPhSyM: Graph Physical Synthesis Model](https://arxiv.org/abs/2308.03944)\
 _Proceedings of the 42nd International Conference on Computer-Aided Design (ICCAD), 2023._
 
 P144. A. Hosny, S. Reda\
