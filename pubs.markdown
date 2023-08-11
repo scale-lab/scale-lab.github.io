@@ -26,7 +26,7 @@ P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel
 _Nature Communications_
 
 P141. J. Ma and S. Reda\
-RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
+[RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability](https://ieeexplore.ieee.org/document/10044766)\
 _IEEE Asia and South Pacific Design Automation Conference, 2023._
 
 ---
