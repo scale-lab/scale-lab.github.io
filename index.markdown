@@ -8,6 +8,7 @@ layout: home
 
 **Recent News:**
 
+* 	2023/09: Prof. Reda selected as an [Amazon Scholar](https://engineering.brown.edu/news/2023-09-07/sherief-reda-joins-amazon-scholars)
 * 	2023/08: Congratulations to Abdelrahman Hosny for successfully completing his Ph.D. thesis
 * 	2022/11: Prof. Reda elevated to IEEE Fellow for contributions to energy-efficient and approximate computing
 * 	2022/05: Congratulations to Dr. Sofiane Chetoui for successfully completing his Ph.D. thesis
