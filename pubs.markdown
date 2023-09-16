@@ -5,6 +5,11 @@ permalink: /pubs/
 ---
 
 ### 2023
+
+P147. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
+Microscale 3-D Capacitance Tomography with a CMOS Sensor Array\
+_IEEE Biomedical Circuits and Systems Conference (BioCAS), 2023._
+
 P146. J. Ma and S. Reda\
 WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference\
 _ACM/IEEE International Symposium on Low Power Electronics and Design, 2023._
