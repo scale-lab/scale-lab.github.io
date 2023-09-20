@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2023
 
 P147. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
-Microscale 3-D Capacitance Tomography with a CMOS Sensor Array\
+[Microscale 3-D Capacitance Tomography with a CMOS Sensor Array](https://arxiv.org/pdf/2309.09039.pdf)\
 _IEEE Biomedical Circuits and Systems Conference (BioCAS), 2023._
 
 P146. J. Ma and S. Reda\
