@@ -9,7 +9,7 @@ permalink: /projects/
 
 ### Research Direction 1: Chip HW/SW Co-Design for AI
 Funding: NSF, DoD and Facebook\
-Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
+Members: Marina Neseem, Ahmed Agiza
 
 **Project 3.1: Adaptive Neural Networks for Embedded Devices**: Embedded systems are constrained in their resources (e.g., memory and power), and as a result, it is difficult to deploy large Neural Networks (NNs) on them. We tackle this problem by developing adaptive NNs techniques that scale the amount of computational needs in the NN depending on the accuracy needs. We have explored adaptive operation for the channels in a NNs, as well as adaptive ensemble processing. With the advancement in augmented reality and smart glasses, object detection became an essential task for edge devices. However, STOA object detectors have large compute and memory footprints which challenges their deployment on edge devices. In recent work, we have explored leveraging the prior knowledge about the probabilities that different object categories can occur jointly to increase the efficiency of object detection models. Her results shows 25% reduction in energy and memory footprint with a negligible loss in accuracy.
 
@@ -22,7 +22,7 @@ Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 
 ### Research Direction 2: Energy-Efficient, Approximate Computing
 Funding: NSF and DoD\
-Members:  Jingxiao Ma, Marina Neseem, Abdelrahman Hosny
+Members:  Jingxiao Ma, Marina Neseem
 
 **Project 1.1: Approximate Logic Synthesis**: Approximate logic synthesis (ALS) is the process of synthesizing logic-level cells in the manner of approximate computing, which offers benefits in hardware metrics, such as design area and power consumption, by relaxing the requirement for full accuracy. In BLASYS project, we aims to generate approximate designs of arbitrary input circuit by using Boolean Matrix Factorization. Truth table of the input circuit is factorized into two smaller matrices, which are then synthesized and combined as approximate circuit. This idea is further extended into RunCALS, which designs runtime configurable circuits with the capability of restoring 100% accuracy.  Furthermore, logic synthesis requires extensive tuning of the synthesis optimization flow where the quality of results (QoR) depends on the sequence of optimizations used. Efficient design space exploration is challenging due to the exponential number of possible optimization permutations. In [DRILLS](https://github.com/scale-lab/DRiLLS), we model the logic synthesis optimization problem as an MDP (Markov Decision Process), and used Reinforcement Learning to provide a sequence of optimization commands that achieves outperforming QoR.
 
@@ -44,7 +44,7 @@ Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
 
 ### Research Direction 4: Thermal/Power Modeling and Management for Mobile and Servers
 Funding: NSF and Samsung\
-Members: Sofiane Chetoui \
+Members: NA \
 Collaborators: Ayse Coskun and M. Syed Nabavinejad
 
 **Project 4.1: Power/Thermal Management for Mobile SoC:** Mobile devices have become an essential part of daily life with the increased computing capabilities and features. However, their limited cooling capabilities makes thermal management a critical factor in determining performance limits. Additionally, mobile devices are battery powered devices, which raises power and battery management challenges. We have been working on proposing  control techniques using modeling and machine learning to manage the different sources of power and thermal emergencies in a mobile SoC, in order to provide the best performance while respecting the  specifications. Furthermore, we are working on  battery lifetime management technique that coordinate the DVFS settings of the CPU and GPU in a mobile SoC to improve the user experience by maximizing the performance while meeting the user desired battery lifetime.
