@@ -8,7 +8,7 @@ permalink: /members/
 
  ![](/members/marina_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Marina Neseem]({% link pages/marina.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})  
  
-  ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})
+  ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})
 
   ![](/members/mahdi_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Mahdi Boulila]({% link pages/mahdi.markdown %})
 
