@@ -22,7 +22,7 @@ layout: home
 * _Proc. of the IEEE_ -- Approximate Logic Synthesis: A Survey
 * _Nature Communications_ -- Multicomponent Molecular Memory
 
-**Current Research Projects**: 
+** Research Themes: **: 
 
 * _[HW/SW Co-Design for AI](projects.markdown)_
 * _[Energy-Efficient Computing](projects.markdown)_
