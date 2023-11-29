@@ -20,7 +20,7 @@ Members: Abdelrahman Hosny, Marina Neseem, Ahmed Agiza
 --- 
 
 
-### Research Direction 2: Approximate Computing
+### Research Direction 2: Energy-Efficient, Approximate Computing
 Funding: NSF and DoD\
 Members:  Jingxiao Ma, Marina Neseem, Abdelrahman Hosny
 
