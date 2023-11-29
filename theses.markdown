@@ -6,6 +6,9 @@ permalink: /theses/
 
 # PhD Theses
 
+[Machine Learning Methods for Combinatorial Optimization](http://scale-lab.github.io/pdfs/hosny.pdf)\
+Abdelrahman Hosny, August 2023
+
 [Thermal and Power Sensing and Management for Mobile System-On-a-Chip](http://scale-lab.github.io/pdfs/sofiane.pdf)\
 Sofiane Chetoui, May 2022
 
