@@ -25,7 +25,7 @@ layout: home
 ** Research Themes: **: 
 
 * _[HW/SW Co-Design for AI](projects.markdown)_
-* _[Energy-Efficient Computing](projects.markdown)_
+* _[Energy-Efficient and Sustainable Computing](projects.markdown)_
 * _[Machine Learning for Combinatorial Optimization](projects.markdown)_
 * _[Molecular Computing](projects.markdown)_
 
