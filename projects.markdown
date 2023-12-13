@@ -45,11 +45,4 @@ Collaborators: Jacob Rosenstein, Brenda Rubenstein, Eunsuk Kim, Christopher Rose
 --- 
 
 
-### Research Direction 4: Thermal/Power Modeling and Management for Mobile and Servers
-Funding: NSF and Samsung\
-Members: NA \
-Collaborators: Ayse Coskun and M. Syed Nabavinejad
 
- 
-
-----
