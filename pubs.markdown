@@ -6,12 +6,13 @@ permalink: /pubs/
 
 ### 2024
 
-P149. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
-PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks\
+P149. A. Agiza, M. Neseem, S. Reda\
+MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning\
 _2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
-P148. A. Agiza, M. Neseem, S. Reda\
-MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning\
+
+P148. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
+PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks\
 _2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 ### 2023
