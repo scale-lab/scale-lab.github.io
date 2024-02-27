@@ -16,11 +16,11 @@ layout: home
 
 **Recent Papers:**
 
-* _Embedded Systems Letters'21_ -- CasCon: Cascaded Thermal And Electrical Current Throttling for Mobile Devices
-* _Royal Society A_ -- Implementing Parallel Arithmetic via Acetylation and Its Application to Chemical Image Processing
-* _ICCAD_ -- AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices
-* _Proc. of the IEEE_ -- Approximate Logic Synthesis: A Survey
-* _Nature Communications_ -- Multicomponent Molecular Memory
+* _CPVR '24_ -- MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning
+* _CVPR '24_ -- PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks
+* _ISLPED '23_ -- WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference
+* _Annals of OR '23_ -- Automatic MILP Solver Configuration by Learning Problem Similarities
+* _Nature Communications_ -- Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling
 
 **Research Themes:**: 
 
