@@ -8,34 +8,34 @@ permalink: /pubs/
 
 P149. A. Agiza, M. Neseem, S. Reda\
 MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning\
-_2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 
 P148. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
 PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks\
-_2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 ### 2023
 
 P147. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
 [Microscale 3-D Capacitance Tomography with a CMOS Sensor Array](https://arxiv.org/pdf/2309.09039.pdf)\
-_IEEE Biomedical Circuits and Systems Conference (BioCAS), 2023._
+_IEEE Biomedical Circuits and Systems Conference (BioCAS)_.
 
 P146. J. Ma and S. Reda\
 WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference\
-_ACM/IEEE International Symposium on Low Power Electronics and Design, 2023._
+_ACM/IEEE International Symposium on Low Power Electronics and Design._
 
 P145. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
 [GraPhSyM: Graph Physical Synthesis Model](https://arxiv.org/abs/2308.03944)\
-_Proceedings of the 42nd International Conference on Computer-Aided Design (ICCAD), 2023._
+_Proceedings of the 42nd International Conference on Computer-Aided Design (ICCAD)._
 
 P144. A. Hosny, S. Reda\
 [Automatic MILP Solver Configuration by Learning Problem Similarities](https://rdcu.be/dgSRv)\
-_Annals of Operations Research (2023)_.
+_Annals of Operations Research_.
 
 P143. M. Neseem , A. Agiza, S. Reda\
 [AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning](https://arxiv.org/pdf/2304.08594.pdf)\
-_2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)_.
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)_.
 
 P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel and S. Reda\
 [Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4tiK)\
@@ -43,7 +43,7 @@ _Nature Communications_
 
 P141. J. Ma and S. Reda\
 [RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability](https://ieeexplore.ieee.org/document/10044766)\
-_IEEE Asia and South Pacific Design Automation Conference, 2023._
+_IEEE Asia and South Pacific Design Automation Conference._
 
 ---
 
