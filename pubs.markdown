@@ -15,6 +15,8 @@ P148. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard
 PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
+---
+
 ### 2023
 
 P147. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
