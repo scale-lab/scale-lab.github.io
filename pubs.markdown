@@ -7,7 +7,7 @@ permalink: /pubs/
 ### 2024
 
 P149. A. Agiza, M. Neseem, S. Reda\
-MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning\
+[MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 
