@@ -12,7 +12,7 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 
 P148. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
-PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks\
+[PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks](https://arxiv.org/pdf/2404.00103.pdf)\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 ---
