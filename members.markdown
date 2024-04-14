@@ -11,7 +11,7 @@ permalink: /members/
   ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})
 
   ![](/members/mahdi_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Mahdi Boulila]({% link pages/mahdi.markdown %})
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/kyppy_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Kyppy Simani]({% link pages/kippy.markdown %})
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/kyppy_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Kyppy Simani]({% link pages/kyppy.markdown %})
 
 
 
