@@ -8,11 +8,11 @@ layout: home
 
 **Recent News:**
 
+*   2023/04: Congratulations to Marina Neseem for successfully completing her Ph.D. thesis.
 *   2023/11: New grant from Google to support research on neural network quantization.
 *   2023/09: Mahdi Boulila joins the group.
 * 	2023/09: Prof. Reda selected as an [Amazon Scholar](https://engineering.brown.edu/news/2023-09-07/sherief-reda-joins-amazon-scholars)
-* 	2023/08: Congratulations to Abdelrahman Hosny for successfully completing his Ph.D. thesis
-* 	2022/11: Prof. Reda elevated to IEEE Fellow for contributions to energy-efficient and approximate computing
+* 	2023/08: Congratulations to Abdelrahman Hosny for successfully completing his Ph.D. thesis.
 
 **Recent Papers:**
 
