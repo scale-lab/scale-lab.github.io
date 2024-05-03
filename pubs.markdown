@@ -8,7 +8,7 @@ permalink: /pubs/
 
 P149. A. Agiza, M. Neseem, S. Reda\
 [MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)\
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_. **Highlight paper (2.6% of submitted papers)**
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_. **Highlight paper (11.9% of submitted papers)**
 
 
 P148. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
