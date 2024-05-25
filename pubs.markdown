@@ -28,7 +28,7 @@ P147. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_.
 
 P146. J. Ma and S. Reda\
-WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference\
+[WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference](https://ieeexplore.ieee.org/document/10044766)\
 _ACM/IEEE International Symposium on Low Power Electronics and Design._
 
 P145. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
