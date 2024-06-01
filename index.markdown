@@ -8,8 +8,8 @@ layout: home
 
 **Recent News:**
 
-*   2023/05: [IEEE Trans on CAD paper](https://ieeexplore.ieee.org/document/9428622) with [A. Coskun](https://www.bu.edu/eng/profile/ayse-coskun/) receives IEEE TCAD Donald O. Pederson Best Paper Award.
-*   2023/04: Congratulations to Marina Neseem for successfully completing her Ph.D. thesis.
+*   2024/05: [IEEE Trans on CAD paper](https://ieeexplore.ieee.org/document/9428622) with [A. Coskun](https://www.bu.edu/eng/profile/ayse-coskun/) receives IEEE TCAD Donald O. Pederson Best Paper Award.
+*   2024/04: Congratulations to Marina Neseem for successfully completing her Ph.D. thesis.
 *   2023/11: New grant from Google to support research on neural network quantization.
 *   2023/09: Mahdi Boulila joins the group.
 * 	2023/09: Prof. Reda selected as an [Amazon Scholar](https://engineering.brown.edu/news/2023-09-07/sherief-reda-joins-amazon-scholars)
