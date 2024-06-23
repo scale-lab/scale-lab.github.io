@@ -6,7 +6,7 @@ permalink: /members/
 
 ![](/members/sreda_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
 
-![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) 
+![](/members/agiza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Ahmed Agiza]({% link pages/ahmed.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/jingxiao_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jingxiao Ma]({% link pages/jingxiao.markdown %}) 
 
 ![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/mahdi_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Mahdi Boulila]({% link pages/mahdi.markdown %})
 
