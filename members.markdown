@@ -17,7 +17,8 @@ permalink: /members/
 
 
 **Prior Members:**
-
+*   **Spring 2024:**  Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Kyppy Simani
+*   **Fall 2023:**  Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD), Mahdi Boulila (PhD)
 *   **Spring 2023:**  Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD)
 *   **Fall 2022:**  Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD)
 *   **Spring 2022:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), Manar Abdelatty (PhD), Rahul Shah (Bsc), Jason Ho (Bsc)
