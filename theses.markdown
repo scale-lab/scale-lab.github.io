@@ -6,7 +6,7 @@ permalink: /theses/
 
 # PhD Theses
 
-[AI at the Edge: Efficient Deep Learning for Resource-Constrained Environments]\
+[AI at the Edge: Efficient Deep Learning for Resource-Constrained Environments](http://scale-lab.github.io/pdfs/marina.pdf)\
 Marina Neseem, May 2024
 
 [Machine Learning Methods for Combinatorial Optimization](http://scale-lab.github.io/pdfs/hosny.pdf)\
