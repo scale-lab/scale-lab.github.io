@@ -12,7 +12,7 @@ _Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society._
 
 P151. A. Agiza, S. Marriott, J. K. Rosenstein, E. Kim, and S. Reda\
 pH-Controlled Enzymatic Computing for Digital Circuits and Neural Networks\
-_The Royal Society of Chemistry, Physical Chemistry Chemical Physics (2024)._
+_Physical Chemistry Chemical Physics, Royal Society of Chemistry, 2024._
 
 P150. S. M. Nabavinejad, S. Reda and T. Guo\
 MediatorDNN: Contention Mitigation for Co-located DNN Inference Jobs,\
