@@ -6,11 +6,19 @@ permalink: /pubs/
 
 ### 2024
 
+P152. A. Agiza, M. Mostagir, and S. Reda\
+PoliTune: Analyzing the Impact of Data Selection and Fine-Tuning on Economic and Political Biases in Large Language Models\
+_Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society._
+
+P151. A. Agiza, S. Marriott, J. K. Rosenstein, E. Kim, and S. Reda\
+pH-Controlled Enzymatic Computing for Digital Circuits and Neural Networks\
+_The Royal Society of Chemistry, Physical Chemistry Chemical Physics (2024)._
+
 P150. S. M. Nabavinejad, S. Reda and T. Guo\
 MediatorDNN: Contention Mitigation for Co-located DNN Inference Jobs,\
 _IEEE International Conference on Cloud Computing_.
 
-P149. A. Agiza, M. Neseem, S. Reda\
+P149. A. Agiza, M. Neseem, and S. Reda\
 [MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_. **Highlight paper (2.6% of submitted papers)**
 
