@@ -6,6 +6,10 @@ permalink: /pubs/
 
 ### 2024
 
+P153. M. Abdelatty, J. Incandela, P. Raj, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
+[Electrical Capacitance Tomography of Cell Cultures on a CMOS Microelectrode Array](https://ieeexplore.ieee.org/abstract/document/10559749)\
+_IEEE Transactions on Biomedical Circuits and Systems, 2024._
+
 P152. A. Agiza, M. Mostagir, and S. Reda\
 PoliTune: Analyzing the Impact of Data Selection and Fine-Tuning on Economic and Political Biases in Large Language Models\
 _Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society._
