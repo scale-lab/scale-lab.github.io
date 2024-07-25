@@ -6,28 +6,28 @@ permalink: /pubs/
 
 ### 2024
 
-P153. M. Abdelatty, J. Incandela, P. Raj, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
+P152. M. Abdelatty, J. Incandela, P. Raj, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
 [Electrical Capacitance Tomography of Cell Cultures on a CMOS Microelectrode Array](https://ieeexplore.ieee.org/abstract/document/10559749)\
 _IEEE Transactions on Biomedical Circuits and Systems, 2024._
 
-P152. A. Agiza, M. Mostagir, and S. Reda\
+P151. A. Agiza, M. Mostagir, and S. Reda\
 PoliTune: Analyzing the Impact of Data Selection and Fine-Tuning on Economic and Political Biases in Large Language Models\
 _Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society._
 
-P151. A. Agiza, S. Marriott, J. K. Rosenstein, E. Kim, and S. Reda\
+P150. A. Agiza, S. Marriott, J. K. Rosenstein, E. Kim, and S. Reda\
 pH-Controlled Enzymatic Computing for Digital Circuits and Neural Networks\
 _Physical Chemistry Chemical Physics, Royal Society of Chemistry, 2024._
 
-P150. S. M. Nabavinejad, S. Reda and T. Guo\
+P149. S. M. Nabavinejad, S. Reda and T. Guo\
 MediatorDNN: Contention Mitigation for Co-located DNN Inference Jobs,\
 _IEEE International Conference on Cloud Computing_.
 
-P149. A. Agiza, M. Neseem, and S. Reda\
+P148. A. Agiza, M. Neseem, and S. Reda\
 [MTLoRA: Low-Rank Adaptation Approach for Efficient Multi-Task Learning](https://arxiv.org/abs/2403.20320)\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_. **Highlight paper (2.6% of submitted papers)**
 
 
-P148. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
+P147. M. Neseem, C. McCullough, R. Hsin, C. Leichner, S. Li, I. Chong, A. Howard, L. Lew, S. Reda, V. Rautio, D. Moro\
 [PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks](https://arxiv.org/pdf/2404.00103.pdf)\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
@@ -35,31 +35,31 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_.
 
 ### 2023
 
-P147. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
+P146. M. Abdelatty, J. Incandela, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
 [Microscale 3-D Capacitance Tomography with a CMOS Sensor Array](https://arxiv.org/pdf/2309.09039.pdf)\
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_.
 
-P146. J. Ma and S. Reda\
+P145. J. Ma and S. Reda\
 [WeNet: Configurable Neural Network with Dynamic Weight-Enabling for Efficient Inference](https://ieeexplore.ieee.org/document/10044766)\
 _ACM/IEEE International Symposium on Low Power Electronics and Design._
 
-P145. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
+P144. A. Agiza, R. Roy, T. Ene, S. Godil, S. Reda and B. Catanzaro\
 [GraPhSyM: Graph Physical Synthesis Model](https://arxiv.org/abs/2308.03944)\
 _Proceedings of the 42nd International Conference on Computer-Aided Design (ICCAD)._
 
-P144. A. Hosny, S. Reda\
+P143. A. Hosny, S. Reda\
 [Automatic MILP Solver Configuration by Learning Problem Similarities](https://rdcu.be/dgSRv)\
 _Annals of Operations Research_.
 
-P143. M. Neseem , A. Agiza, S. Reda\
+P142. M. Neseem , A. Agiza, S. Reda\
 [AdaMTL: Adaptive Input-dependent Inference for Efficient Multi-Task Learning](https://arxiv.org/pdf/2304.08594.pdf)\
 _IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)_.
 
-P142. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel and S. Reda\
+P141. A. Agiza, K. Oakley, J. K. Rosenstein, B. M. Rubenstein, E. Kim, M. Riedel and S. Reda\
 [Digital Circuits and Neural Networks based on Acid-Base Chemistry implemented by Robotic Fluid Handling](https://rdcu.be/c4tiK)\
 _Nature Communications_
 
-P141. J. Ma and S. Reda\
+P140. J. Ma and S. Reda\
 [RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability](https://ieeexplore.ieee.org/document/10044766)\
 _IEEE Asia and South Pacific Design Automation Conference._
 
@@ -67,20 +67,20 @@ _IEEE Asia and South Pacific Design Automation Conference._
 
 ### 2022
 
-P140. A. Hosny and S. Reda\
+P139. A. Hosny and S. Reda\
 [Characterizing and Optimizing EDA Flows for the Cloud](https://ieeexplore.ieee.org/document/9576518)\
 _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)_. 
 
 
-P139. S. Chetoui, R. Shah, S. Abdelaziz, A. Golas, F. Hijaz and S. Reda\
+P138. S. Chetoui, R. Shah, S. Abdelaziz, A. Golas, F. Hijaz and S. Reda\
 [ARBench: Augmented Reality Benchmark For Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9804625/)\
 _IEEE Symposium on Performance Analysis of Systems and Software (ISPASS)_
 
-P138. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
+P137. S. M. Nabavinejad, S. Reda and M. Ebrahimi\
 [Coordinated Batching and DVFS for DNN Inference on GPU Accelerators](https://ieeexplore.ieee.org/document/9689937)\
 _IEEE Transactions on Parallel and Distributed Systems_
 
-P137. S. Chetoui, M. Chen, A. Golas, F. Hijaz, A. Belouchrani and S. Reda\
+P136. S. Chetoui, M. Chen, A. Golas, F. Hijaz, A. Belouchrani and S. Reda\
 [Alternating Blind Identification of Power Sources for Mobile SoCs](https://dl.acm.org/doi/abs/10.1145/3489525.3511676)\
 _ACM/SPEC International Conference on Performance Engineering_
 
@@ -89,18 +89,14 @@ _ACM/SPEC International Conference on Performance Engineering_
 ### 2021
 
 
-P136. S. M. Nabavinejad and  S. Reda\
+P135. S. M. Nabavinejad and  S. Reda\
 BayesTuner: Leveraging Bayesian Optimization For DNN Inference Configuration Selection\
 _IEEE Computer Architecture Letters_
 
 
-P135. A. Hosny, M. Neseem and S. Reda\
+P134. A. Hosny, M. Neseem and S. Reda\
 Sparse Bitmap Compression for Memory-Efficient Training on the Edge\
 _ACM/IEEE Symposium on Edge Computing (SEC), 2021._
-
-P134. J. Ma and S. Reda\
-RUCA: RUntime Configurable Approximate Circuits with Self-Correcting Capability\
-_International Workshop on Logic & Synthesis, 2021._
 
 P133. M. Neseem and S. Reda\
 AdaCon: Adaptive Context-Aware Object Detection for Resource-Constrained Embedded Devices\
