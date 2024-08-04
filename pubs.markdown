@@ -11,11 +11,11 @@ P152. M. Abdelatty, J. Incandela, P. Raj, K. Hu, J. Larkin. S. Reda, J. Rosenste
 _IEEE Transactions on Biomedical Circuits and Systems, 2024._
 
 P151. A. Agiza, M. Mostagir, and S. Reda\
-PoliTune: Analyzing the Impact of Data Selection and Fine-Tuning on Economic and Political Biases in Large Language Models\
+[PoliTune: Analyzing the Impact of Data Selection and Fine-Tuning on Economic and Political Biases in Large Language Models](https://arxiv.org/abs/2404.08699)\
 _Proceedings of the 2024 AAAI/ACM Conference on AI, Ethics, and Society._
 
 P150. A. Agiza, S. Marriott, J. K. Rosenstein, E. Kim, and S. Reda\
-pH-Controlled Enzymatic Computing for Digital Circuits and Neural Networks\
+[pH-Controlled Enzymatic Computing for Digital Circuits and Neural Networks](https://pubs.rsc.org/en/content/articlehtml/2024/cp/d4cp02039a)\
 _Physical Chemistry Chemical Physics, Royal Society of Chemistry, 2024._
 
 P149. S. M. Nabavinejad, S. Reda and T. Guo\
