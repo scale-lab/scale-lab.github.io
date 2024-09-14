@@ -4,9 +4,15 @@ title: Publications
 permalink: /pubs/
 ---
 
+### 2025
+P153. M. Abdelatty, J. Ma, S. Reda\
+MetRex: A Benchmark for Verilog Code Metric Reasoning\
+_IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2025_
+
+
 ### 2024
 
-P152. M. Abdelatty, J. Incandela, P. Raj, K. Hu, J. Larkin. S. Reda, J. Rosenstein\
+P152. M. Abdelatty, J. Incandela, P. Raj, K. Hu, J. Larkin., S. Reda, J. Rosenstein\
 [Electrical Capacitance Tomography of Cell Cultures on a CMOS Microelectrode Array](https://ieeexplore.ieee.org/abstract/document/10559749)\
 _IEEE Transactions on Biomedical Circuits and Systems, 2024._
 
