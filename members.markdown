@@ -10,9 +10,11 @@ permalink: /members/
 
 ![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/mahdi_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Mahdi Boulila]({% link pages/mahdi.markdown %})
 
-![](/members/morteza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Seyed Morteza Nabavinejad]({% link pages/morteza.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/maryam.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Maryam Nouh]({% link pages/maryam.markdown %})
+![](/members/morteza_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Seyed Morteza Nabavinejad]({% link pages/morteza.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-![](/members/lisa.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Lisa Korver]({% link pages/lisa.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/tasneem.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Tasneem Shaffee]({% link pages/tasneem.markdown %})
+![](/members/maryam.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Maryam Nouh]({% link pages/maryam.markdown %}) ![](/members/lisa.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Lisa Korver]({% link pages/lisa.markdown %})
+
+![](/members/tasneem.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Tasneem Shaffee]({% link pages/tasneem.markdown %})
 
 
 
