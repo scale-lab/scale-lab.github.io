@@ -26,7 +26,7 @@ layout: home
 * _[HW/SW Co-Design for AI](projects.markdown)_
 * _[Energy-Efficient and Sustainable Computing](projects.markdown)_
 * _[Machine Learning for Combinatorial Optimization and EDA](projects.markdown)_
-*  [AI and Social Sciences]
+*  AI and Social Sciences
 * _[Molecular Computing](projects.markdown)_
 
 
