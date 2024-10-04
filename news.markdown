@@ -3,6 +3,15 @@ layout: page
 title: News
 permalink: /news/
 ---
+**2024:**
+* 2024/05: IEEE Trans on CAD paper with A. Coskun receives IEEE TCAD Donald O. Pederson Best Paper Award.
+* 2024/04: Congratulations to Marina Neseem for successfully completing her Ph.D. thesis.
+
+**2023:**
+* 2023/11: New grant from Google to support research on neural network quantization.
+* 2023/09: Mahdi Boulila joins the group.
+* 2023/09: Prof. Reda selected as an Amazon Scholar
+* 2023/08: Congratulations to Abdelrahman Hosny for successfully completing his Ph.D. thesis.
 
 **2022:**
 * 	2022/11: Prof. Reda elevated to IEEE Fellow for contributions to energy-efficient and approximate computing
