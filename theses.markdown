@@ -6,7 +6,7 @@ permalink: /theses/
 
 # PhD Theses
 
-[Approximate Computing Techniques: \\ From Logic Synthesis to Deep Learning](http://scale-lab.github.io/pdfs/jingxiao.pdf)\
+[Approximate Computing Techniques: From Logic Synthesis to Deep Learning](http://scale-lab.github.io/pdfs/jingxiao.pdf)\
 Jingxiao Ma, May 2024
 
 [AI at the Edge: Efficient Deep Learning for Resource-Constrained Environments](http://scale-lab.github.io/pdfs/marina.pdf)\
