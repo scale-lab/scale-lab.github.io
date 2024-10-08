@@ -6,7 +6,7 @@ permalink: /pubs/
 
 ### 2025
 P153. M. Abdelatty, J. Ma, S. Reda\
-MetRex: A Benchmark for Verilog Code Metric Reasoning\
+MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs\
 _IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2025_
 
 
