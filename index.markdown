@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![](logo.png)
+<!--- ![](logo.png) --->
 
 ![](group.jpg)
 
