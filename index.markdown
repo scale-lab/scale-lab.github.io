@@ -6,7 +6,7 @@ layout: home
 ---
 ![](logo.png)
 
-![](members.jpg)
+![](group.jpg)
 
 
 **Recent News:**
