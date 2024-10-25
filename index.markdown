@@ -6,6 +6,7 @@ layout: home
 ---
 <!--- ![](logo.png) --->
 
+**Welcome to Scalable Energy-Efficient Computing Systems Laboratory**
 ![](group.jpg)
 
 
