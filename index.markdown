@@ -6,7 +6,7 @@ layout: home
 ---
 <!--- ![](logo.png) --->
 
-**Welcome to Scalable Energy-Efficient Computing Systems Laboratory**
+**Welcome to Scalable Energy-Efficient Computing Systems (SCALE) Laboratory**
 
 
 ![](group.jpg)
