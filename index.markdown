@@ -6,6 +6,9 @@ layout: home
 ---
 ![](logo.png)
 
+![](members.jpg)
+
+
 **Recent News:**
 
 *   2024/10: Congratulations to Ahmed Agiza for successfully completing his Ph.D. thesis
