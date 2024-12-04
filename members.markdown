@@ -15,7 +15,7 @@ permalink: /members/
 ![](/members/Maryam.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Maryam Nouh]({% link pages/Maryam.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/Lisa.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Lisa Korver]({% link pages/Lisa.markdown %})
 
 ![](/members/Tasneem.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Tasneem Shaffee]({% link pages/Tasneem.markdown %})
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/Jonathan.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Jonathan Herbst]({% link pages/jonathan.markdown %})
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/members/jonathan.jpeg){:height="100px" width="100px"}&nbsp;&nbsp;[Jonathan Herbst]({% link pages/jonathan.markdown %})
 
 
 
