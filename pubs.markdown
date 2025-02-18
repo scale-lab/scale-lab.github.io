@@ -6,7 +6,7 @@ permalink: /pubs/
 
 ### 2025
 P154. J. Ma, P. Panda, and S. Reda\
-FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision
+FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision\
 _IEEE/ACM Design Automation Conference (DAC), 2025_
 
 P153. M. Abdelatty, J. Ma, S. Reda\
