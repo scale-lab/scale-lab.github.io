@@ -219,7 +219,7 @@ P110. H. Tann, H. Zhao and S. Reda\
  _ACM Journal on Emerging Computing Technologies_
 
 P109. Z. Yuan, P. Shukla, G. Vaartstra, E. Wang, S. Reda and A. Coskun\
- [Modeling and Optimization of Chip Cooling with Two-Phase Vapor Chambers](https://scale.engin.brown.edu/pdfs/islped19.pdf)\
+ Modeling and Optimization of Chip Cooling with Two-Phase Vapor Chambers\
  _IEEE International Symposium on Low-Power Electronics & Design_
 
 P108. T. Ajayi, V. A. Chhabria, M. Fogaca, S. Hashemi, C. Holehouse, A. Hosny, A. B. Kahng, M. Kim, J. Lee, U. Mallappa, M. Neseem, G. Pradipta, S. Reda, M. Saligane, S. S. Sapatnekar, C. Sechen, M. Shalan, W. Swartz, L. Wang, Z. Wang, M. Woo and B. Xu\
@@ -227,15 +227,15 @@ P108. T. Ajayi, V. A. Chhabria, M. Fogaca, S. Hashemi, C. Holehouse, A. Hosny, A
  _IEEE/ACM Design Automation Conference_ 
 
 P107. Z. Yuan, G. Vaartstra, P. Shukla, M. Said, S. Reda, E. Wang and A. Coskun\
- [Two Phase Cooling with Micropillar Evaporators: A New Approach to Remove Heat from Future High Performance Chips](https://scale.engin.brown.edu/pdfs/itherm19.pdf)\
+ Two Phase Cooling with Micropillar Evaporators: A New Approach to Remove Heat from Future High Performance Chips\
  _IEEE iTherm_
 
 P106. F. Kaplan, M. Said, S. Reda and A. Coskun\
- [LoCool: Fighting Hot Spots Locally for Improving System Energy Efficiency](https://scale.engin.brown.edu/pdfs/tcad19.pdf)\
+ LoCool: Fighting Hot Spots Locally for Improving System Energy Efficiency\
 _IEEE Transactions on Computer-Aided Design_
 
 P105. S. Hashemi and S. Reda\
- [Generalized Matrix Factorization Techniques for Approximate Logic Synthesis](https://scale.engin.brown.edu/pdfs/date19.pdf)\
+ Generalized Matrix Factorization Techniques for Approximate Logic Synthesis\
  _ACM/IEEE Design Automation and Test in Europe_
 
 P104. S. Reda and M. Shafique\
@@ -247,11 +247,11 @@ P104. S. Reda and M. Shafique\
 ### 2018
 
 P103. M. Said, S. Chetoui, A. Belouchrani and S. Reda\
-[Understanding the sources of power consumption in Mobile SoCs](https://scale.engin.brown.edu/pdfs/igsc18-soc.pdf)\
+Understanding the sources of power consumption in Mobile SoCs\
 _IEEE International Green and Sustainable Computing Conference_
 
 P102. R. Azimi, C. Jing and S. Reda\
-[PowerCoord: A Coordinated Power Capping Controller for Multi-CPU/GPU Servers](https://scale.engin.brown.edu/pdfs/igsc18-powercoord.pdf)\
+PowerCoord: A Coordinated Power Capping Controller for Multi-CPU/GPU Servers\
  _IEEE International Green and Sustainable Computing Conference_\
  **Best Paper Award** 
 
@@ -276,15 +276,15 @@ P97.  H. Tann, S. Hashemi and S. Reda\
  _arXiv Technical Report 1801.07353_
 
 P96.  S. Hashemi,  H. Tann, F. Buttafuoco and S. Reda\
- [Approximate Computing for Biometric Security Systems: A Case Study on Iris Scanning](https://scale.engin.brown.edu/pdfs/date18a.pdf)\
+ Approximate Computing for Biometric Security Systems: A Case Study on Iris Scanning\
  _IEEE Design, Automation Test in Europe_
 
 P95. S. M. Nabavinejad, X. Zhan, R. Azimi, M Goudarzi, and S. Reda\
- [QoR-Aware Power Capping for Approximate Big Data Processing](https://scale.engin.brown.edu/pdfs/date18b.pdf)\
+ QoR-Aware Power Capping for Approximate Big Data Processing
   _IEEE Design, Automation Test in Europe_
 
 P94.  S. Reda, K. Dev and A. Belouchrani\
- [Blind Identification of Thermal Models and Power Sources from Thermal Measurements](https://scale.engin.brown.edu/pdfs/sensor_journal.pdf)\
+ Blind Identification of Thermal Models and Power Sources from Thermal Measurements\
  _IEEE Journal on Sensors_
 
 ---
@@ -292,43 +292,43 @@ P94.  S. Reda, K. Dev and A. Belouchrani\
 ### 2017
 
 P93.  K. Dev, X. Zhan and S. Reda\
-[Scheduling on CPU+GPU Processors under Dynamic Conditions](https://www.google.com/search?client=safari&rls=en&q=Scheduling+on+CPU%2BGPU+Processors+under+Dynamic+Conditions&ie=UTF-8&oe=UTF-8)\
-_Journal on Low-Power Electronics (https://scale.engin.brown.edu/pdfs/JOLPE), American Scientific Publishers_
+Scheduling on CPU+GPU Processors under Dynamic Conditions\
+_Journal on Low-Power Electronics, American Scientific Publishers_
 
 P92. S. Steffl and S. Reda\
-[LACore: A Supercomputing-Like Linear Algebra Accelerator for SoC-Based Designs](https://scale.engin.brown.edu/pdfs/ICCD17.pdf)\
+LACore: A Supercomputing-Like Linear Algebra Accelerator for SoC-Based Designs\
 _IEEE Conference on Computer Design_
 
 P91.  S. Reda\
-[3D Integration Advances Computing](https://go.gale.com/ps/anonymous?id=GALE%7CA497803571&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00280836&p=HRCA&sw=w)\
+3D Integration Advances Computing\
 _Nature_
 
 P90. R. Azimi, T. Fox and S. Reda\
-[Understanding the Role of GPGPU-accelerated SoC-based ARM Clusters](https://scale.engin.brown.edu/pdfs/Cluster17.pdf)\
+Understanding the Role of GPGPU-accelerated SoC-based ARM Clusters\
 _IEEE Cluster_
 
 P89. M. Shalan and S. Reda\
-[CloudV: A Cloud-Based Educational Digital Design Environment](https://scale.engin.brown.edu/pdfs/CloudV.pdf)\
-_IEEE International Conference on Microelectronic Systems Education (https://scale.engin.brown.edu/pdfs/MSE)_
+CloudV: A Cloud-Based Educational Digital Design Environment\
+_IEEE International Conference on Microelectronic Systems Education_
 
 P88.  F. Kaplan, S. Reda and A. Coskun\
- [Fast Thermal Modeling of Liquid, Thermoelectric, and Hybrid Cooling](https://scale.engin.brown.edu/pdfs/iTherm2017.pdf)\
- _IEEE The Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems_
+Fast Thermal Modeling of Liquid, Thermoelectric, and Hybrid Cooling\
+_IEEE The Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems_
 
 P87. H. Tann, S. Hashemi, R. I. Bahar and S. Reda\
-[Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks](https://scale.engin.brown.edu/pdfs/DAC17.pdf)\
+Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks\
 _IEEE/ACM Design Automation Conference_
 
 P86. S. Reda and A. Belouchrani\
-[Blind Identification of Power Sources in Processors](https://scale.engin.brown.edu/pdfs/date2017.pdf)\
+Blind Identification of Power Sources in Processors\
 _IEEE/ACM Design, Automation & Test in Europe_
 
 P85. DATE S. Hashemi, N. Anthony, H. Tann, R. I. Bahar and S. Reda\
-[Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks](https://scale.engin.brown.edu/pdfs/date2017b.pdf)\
+Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks\
 _IEEE/ACM Design, Automation and Test in Europe_
 
 P84. R. Azimi, M. Badiei, L. Na and S. Reda \
-[Fast Decentralized Power Capping for Server Clusters](https://scale.engin.brown.edu/pdfs/hpca2017.pdf)\
+Fast Decentralized Power Capping for Server Clusters\
 _IEEE Symposium on High-Performance Computer Architecture_
 
 ---
@@ -336,120 +336,120 @@ _IEEE Symposium on High-Performance Computer Architecture_
 ### 2016
 
 P83. K. Dev and S. Reda\
- [Scheduling Challenges and Opportunities in Integrated CPU+GPU Processors](https://scale.engin.brown.edu/pdfs/ESTIMedia.pdf)\
- _ACM/IEEE Symposium on Emedded Systems for Real-time Media_
+Scheduling Challenges and Opportunities in Integrated CPU+GPU Processors\
+_ACM/IEEE Symposium on Embedded Systems for Real-time Media_
 
 P82. K. Dev, X. Zhan and S. Reda\
- [Power-Aware Characterization and Mapping of Workloads on CPU-GPU Processors](https://scale.engin.brown.edu/pdfs/iiswc16.pdf)\
- _IEEE International Symposium on Workload Characterization_
+Power-Aware Characterization and Mapping of Workloads on CPU-GPU Processors\
+_IEEE International Symposium on Workload Characterization_
 
 P81. K. Nepal, S. Hashemi, C. Tann, R. I. Bahar and S. Reda\
-  [Automated High-Level Generation of Low-Power Approximate Computing Circuits](https://scale.engin.brown.edu/pdfs/TETC16.pdf)\
-  _IEEE Transactions on Emerging Topics in Computing_
+Automated High-Level Generation of Low-Power Approximate Computing Circuits\
+_IEEE Transactions on Emerging Topics in Computing_
 
 P80.  C. Tann, S. Hashemi, R. I. Bahar and S. Reda\
- [Runtime Configurable Deep Neural Networks for Energy-Accuracy Trade-off](https://arxiv.org/pdf/1607.05418.pdf)\
- _IEEE International Conference on Hardware/Software Codesign and System Synthesis_
+Runtime Configurable Deep Neural Networks for Energy-Accuracy Trade-off\
+_IEEE International Conference on Hardware/Software Codesign and System Synthesis_
 
 P79.  O. Ulusel, C. Picardo, C. Harris, S. Reda and R. I. Bahar\
- [Hardware Acceleration of Feature Detection and Description Algorithms on Low-Power Embedded Platforms](https://ieeexplore.ieee.org/document/7577310)\
- _IEEE Field Programmable Logic_
+Hardware Acceleration of Feature Detection and Description Algorithms on Low-Power Embedded Platforms\
+_IEEE Field Programmable Logic_
 
 P78.  K. Dev, S. Reda, I. Paul, W. Huang and W. Burleson\
- [Workload-aware Power Gating Design and Run-time Management for Massively Parallel GPGPUs](https://scale.engin.brown.edu/pdfs/isvlsi.pdf)\
- _IEEE Symposium on Very-Large Scale Integration_
+Workload-aware Power Gating Design and Run-time Management for Massively Parallel GPGPUs\
+_IEEE Symposium on Very-Large Scale Integration_
 
 P77.  X. Zhan, R. Azimi, S. Kanev, D. Brooks and S. Reda\
- [CARB: A C-State Power Management Arbiter For Latency-Critical Workloads](https://scale.engin.brown.edu/pdfs/CAL16.pdf)\
- _IEEE Computer Architecture Letters_
+CARB: A C-State Power Management Arbiter For Latency-Critical Workloads\
+_IEEE Computer Architecture Letters_
 
 P76.  S. Hashemi, R. I. Bahar and S. Reda\
- [A Low-Power Dynamic Divider for Approximate Applications](https://scale.engin.brown.edu/pdfs/DAC16.pdf)\
- _IEEE/ACM Design Automation Conference_
+A Low-Power Dynamic Divider for Approximate Applications\
+_IEEE/ACM Design Automation Conference_
 
 P75.  X. Zin, M. Shoaib and S. Reda\
- [Creating Soft Heterogeneity in Clusters Through Firmware Re-configuration](https://scale.engin.brown.edu/pdfs/CCGrid16a.pdf)\
- _IEEE Cluster, Cloud and Grid Computing_
+Creating Soft Heterogeneity in Clusters Through Firmware Re-configuration\
+_IEEE Cluster, Cloud and Grid Computing_
 
 P74.  M. Badiei, X. Zhan, R. Azimi, S. Reda and N. Li\
- [DiBA: Distributed Power Budget Allocation for Large-Scale Computing Clusters](https://scale.engin.brown.edu/pdfs/CCGrid16b.pdf)\
- _IEEE Cluster, Cloud and Grid Computing_
+DiBA: Distributed Power Budget Allocation for Large-Scale Computing Clusters\
+_IEEE Cluster, Cloud and Grid Computing_
 
 ---
 
 ### 2015
 
 P73.  R. Azimi, X. Zhan and S. Reda\
- [How Good Are Low-Power 64-bit SoCs for Server-Class Workloads?](https://scale.engin.brown.edu/pdfs/IISWC15.pdf)\
- _IEEE International Symposium on Workload Characterization_
+How Good Are Low-Power 64-bit SoCs for Server-Class Workloads?\
+_IEEE International Symposium on Workload Characterization_
 
 P72.   S. Hashemi, R. I. Bahar and S. Reda\
-  [DRUM: A Dynamic Range Unbiased Multiplier for Approximate Applications](https://scale.engin.brown.edu/pdfs/ICCAD15.pdf)\
-  _ACM/IEEE International Conference on Computer-Aided Design_\
-  **Best Paper Candidate.** 
+DRUM: A Dynamic Range Unbiased Multiplier for Approximate Applications\
+_ACM/IEEE International Conference on Computer-Aided Design_\
+**Best Paper Candidate.** 
 
 P71.   S. Jayakumar, S. Reda\
-  [Making Sense of Thermoelectrics for Processor Thermal Management and Energy Harvesting](https://scale.engin.brown.edu/pdfs/islped15.pdf)\
-   _ACM/IEEE International Symposium on Low-Power Electronics and Design_ 
+Making Sense of Thermoelectrics for Processor Thermal Management and Energy Harvesting\
+_ACM/IEEE International Symposium on Low-Power Electronics and Design_ 
 
 P70.  X. Zhan and S. Reda\
-  [Power Budgeting Techniques for Datacenters](https://scale.engin.brown.edu/pdfs/TComp15.pdf)\
-  _IEEE Transactions on Computers_
+Power Budgeting Techniques for Datacenters\
+_IEEE Transactions on Computers_
 
 ---
 
 ### 2014
 
 P69. A. N. Nowroz, K. Hu, F. Koushanfar, S. Reda\
- [Novel Techniques for High-Sensitivity Hardware Trojan Detection using Thermal and Power Maps](https://scale.engin.brown.edu/pdfs/tcad14.pdf)\
- _IEEE Transactions on Computer-Aided Design_
+Novel Techniques for High-Sensitivity Hardware Trojan Detection using Thermal and Power Maps\
+_IEEE Transactions on Computer-Aided Design_
 
 P68. Azimi, X. Zhan and S. Reda\
- [Thermal-Aware Layout Planning for Heterogeneous Datacenters](https://scale.engin.brown.edu/pdfs/islped14.pdf)\
- _IEEE International Symposium on Low-Power Electronics and Design_
+Thermal-Aware Layout Planning for Heterogeneous Datacenters\
+_IEEE International Symposium on Low-Power Electronics and Design_
 
 P67. O. Ulusel, K. Nepal, R. I. Bahar and S. Reda\
- [Fast Design Exploration for Performance, Power and Accuracy Tradeoffs in FPGA-Based Accelerators](https://scale.engin.brown.edu/pdfs/TRETS14.pdf)\
- _in ACM Transactions on Reconfigurable Technology and Systems_
+Fast Design Exploration for Performance, Power and Accuracy Tradeoffs in FPGA-Based Accelerators\
+_ACM Transactions on Reconfigurable Technology and Systems_
 
 P66. K. Nepal, Y. Li, R. I. Bahar and S. Reda\
- [ABACUS: A Technique for Automated Behavioral Synthesis of Approximate Computing Circuits](https://scale.engin.brown.edu/pdfs/DATE14.PDF)\
- _Design, Automation and Test in Europe_
+ABACUS: A Technique for Automated Behavioral Synthesis of Approximate Computing Circuits\
+_Design, Automation and Test in Europe_
 
 ---
 
 ### 2013
 
 P65. K. Dev, A. N. Nowroz and S. Reda\
-[Power Mapping and Modeling of Multi-core Processors](https://scale.engin.brown.edu/pdfs/islpeda.pdf)\
+Power Mapping and Modeling of Multi-core Processors\
 _IEEE International Symposium on Low-Power Electronics and Design_
 
 P64. C. Hankendi S. Reda, A. Coskun\
-[vCap: Adaptive Power Capping for Virtualized Servers](https://scale.engin.brown.edu/pdfs/islpedb.pdf)\
+vCap: Adaptive Power Capping for Virtualized Servers\
 _IEEE International Symposium on Low-Power Electronics and Design_
 
 P63. X. Zhan and S. Reda\
-[Techniques for Energy-Efficient Power Budgeting in Data Centers](https://scale.engin.brown.edu/pdfs/dac-zhan.pdf)\
+Techniques for Energy-Efficient Power Budgeting in Data Centers\
 _Design Automation Conference_
 
 P62. K. Dev, G. Woods and S. Reda\
-[High-Throughput TSV Testing and Characterization for 3D Integration Using Thermal Mapping](https://scale.engin.brown.edu/pdfs/dac-dev.pdf)\
+High-Throughput TSV Testing and Characterization for 3D Integration Using Thermal Mapping\
 _Design Automation Conference_
 
 P61. F. Paterna and S. Reda\
- [Mitigating Dark Silicon Problems Using Superlattice-based Thermoelectric Coolers](https://scale.engin.brown.edu/pdfs/date13_tec.pdf)\
+ Mitigating Dark Silicon Problems Using Superlattice-based Thermoelectric Coolers\
  _Design, Automation and Test in Europe_
 
 P60.  K. Hu, A. Nowroz, S. Reda and F. Koushanfar\
- [High-Sensitivity Hardware Trojan Detection Using Multimodal Characterization Power Mapping of Integrated Circuits Using AC-based Thermography](https://scale.engin.brown.edu/pdfs/date13_trojan.pdf)\
+ High-Sensitivity Hardware Trojan Detection Using Multimodal Characterization Power Mapping of Integrated Circuits Using AC-based Thermography\
  _Design, Automation and Test in Europe_
 
 P59.  A. N. Nowroz, G. Woods and S. Reda\
- [Power Mapping of Integrated Circuits Using AC-based Thermography](https://scale.engin.brown.edu/pdfs/tvlsi13.pdf)\
+ Power Mapping of Integrated Circuits Using AC-based Thermography\
  _IEEE Transactions on VLSI_
 
 P58.  S. Reda, A. N. Nowroz, R. Cochran, S. Angelevski\
- [Post-Silicon Power Mapping Techniques for Integrated Circuits](https://scale.engin.brown.edu/pdfs/integ12.pdf)\
+ Post-Silicon Power Mapping Techniques for Integrated Circuits\
  _ElSevier VLSI Integration Journal_
 
  ---
@@ -457,106 +457,106 @@ P58.  S. Reda, A. N. Nowroz, R. Cochran, S. Angelevski\
 ### 2012
 
 P57.  R. Cochran and S. Reda\
- [Thermal Prediction and Adaptive Control Through Workload Phase Detection](https://scale.engin.brown.edu/pdfs/todaes12.pdf)\
- _ACM Transactions on Design Automation of Eletronic Systems_
+Thermal Prediction and Adaptive Control Through Workload Phase Detection\
+_ACM Transactions on Design Automation of Electronic Systems_
 
 P56. S. Reda, R. Cochran, and A. Coskun\
-[Adaptive Power Capping for Servers with Multi-­threaded Workloads](https://scale.engin.brown.edu/pdfs/micro12.pdf)\
+Adaptive Power Capping for Servers with Multi-threaded Workloads\
 _IEEE Micro Journal_
 
 P55. S. Reda and A. N. Nowroz\
-[Power Modeling and Characterization of Computing Devices: A Survey](https://scale.engin.brown.edu/pdfs/NOW-SURVEY.pdf)\
+Power Modeling and Characterization of Computing Devices: A Survey\
 _Foundations and Trends in Electronic Design Automation Journal_
 
 P54. K. Nepal, O. Ulusul, R. I. Bahar and S. Reda\
-[Fast Multi-Objective Algorithmic-Design Co-Exploration for FPGA-based Accelerators](https://scale.engin.brown.edu/pdfs/FCCM.pdf)\
+Fast Multi-Objective Algorithmic-Design Co-Exploration for FPGA-based Accelerators\
 _IEEE International Symposium on Field-Programmable Custom Computing Machines_
 
 ---
 
 ### 2011
 
- 
 P53. R. Cochran, C. Hankendi, A. Coskun and S. Reda\
-[Pack & Cap: Adaptive DVFS and Thread Packing Under Power Caps](https://scale.engin.brown.edu/pdfs/micro11.pdf)\
+Pack & Cap: Adaptive DVFS and Thread Packing Under Power Caps\
 _ACM/IEEE International Symposium on Microarchitecture_
 
 P52. R. Cochran, C. Hankendi, A. Coskun and S. Reda\
- [Identifying the Optimal Energy-Efficient Operating Points of Parallel Workloads](https://scale.engin.brown.edu/pdfs/iccad11.pdf)\
- _ACM/IEEE International Conference on Computer-Aided Design_
+Identifying the Optimal Energy-Efficient Operating Points of Parallel Workloads\
+_ACM/IEEE International Conference on Computer-Aided Design_
 
 P51. S. Reda\
- [Thermal and Power Characterization of Real Computing Devices](https://scale.engin.brown.edu/pdfs/jetcas11.pdf)\
- _IEEE Journal on Emerging Topics in Circuits and Systems_
+Thermal and Power Characterization of Real Computing Devices\
+_IEEE Journal on Emerging Topics in Circuits and Systems_
 
 P50. A. N. Nowroz, G. Woods and S. Reda\
- [Improved Post-Silicon power Modeling Using AC Lock-In Techniques](https://scale.engin.brown.edu/pdfs/dac11.pdf)\
- _ACM/IEEE Design Automation Conference_
+Improved Post-Silicon Power Modeling Using AC Lock-In Techniques\
+_ACM/IEEE Design Automation Conference_
 
 P49. S. Reda, R. Cochran, and A. N. Nowroz\
-[Improved Thermal Tracking for Processors Using Hard and Soft Sensor Allocation Techniques](https://scale.engin.brown.edu/pdfs/tcomp11.pdf)\
- _IEEE Transactions on Computers_
+Improved Thermal Tracking for Processors Using Hard and Soft Sensor Allocation Techniques\
+_IEEE Transactions on Computers_
 
 P48. A. N. Nowroz and S. Reda\
- [Thermal and Power Characterization of Field-Programmable Gate Arrays](https://scale.engin.brown.edu/pdfs/fpga11.pdf)\
- _ACM International Symposium on Field Programmable Gate Arrays_
+Thermal and Power Characterization of Field-Programmable Gate Arrays\
+_ACM International Symposium on Field-Programmable Gate Arrays_
 
 ---
 
 ### 2010
 
 P47. N. H. Khan, S. Reda and S. Hassoun\
- [Early Estimation of TSV Area for Power Delivery in 3D Integrated Circuits](https://scale.engin.brown.edu/pdfs/3dic.pdf)\
- _IEEE International 3D Systems Integration Conference_ 
+Early Estimation of TSV Area for Power Delivery in 3D Integrated Circuits\
+_IEEE International 3D Systems Integration Conference_ 
 
 P46. R. Cochran, A. N. Nowroz and S. Reda\
- [Post-Silicon Power Characterization Using Thermal Infrared Emissions](https://scale.engin.brown.edu/pdfs/islped10.pdf)\
- _International Symposium on Low-Power Electronics and Design_\
- **Best Paper Award** 
+Post-Silicon Power Characterization Using Thermal Infrared Emissions\
+_International Symposium on Low-Power Electronics and Design_\
+**Best Paper Award** 
 
 P45. S. Reda and S. Nassif\
- [Accurate Spatial Estimation and Decomposition Techniques for Variability Characterization](https://scale.engin.brown.edu/pdfs/tsm10.pdf)\
- _IEEE Transactions on Semiconductor Manufacturing_
+Accurate Spatial Estimation and Decomposition Techniques for Variability Characterization\
+_IEEE Transactions on Semiconductor Manufacturing_
 
 P44. A. N. Nowroz, R. Cochran and S. Reda\
- [Thermal Monitoring of Real Processors: Techniques for Sensor Allocation and Full Characterization](https://scale.engin.brown.edu/pdfs/dac10a.pdf)\
- _Design Automation Conference_
+Thermal Monitoring of Real Processors: Techniques for Sensor Allocation and Full Characterization\
+_Design Automation Conference_
 
 P43. R. Cochran and S. Reda\
- [Consistent Runtime Thermal Prediction and Control Through Workload Phase Detection](https://scale.engin.brown.edu/pdfs/dac10b.pdf)\
- _Design Automation Conference_
+Consistent Runtime Thermal Prediction and Control Through Workload Phase Detection\
+_Design Automation Conference_
 
---- 
+---
 
 ### 2009
 
 P42. S. Reda, A. Si and R. I. Bahar\
- [Reducing the Leakage and Timing Variability of 2D ICs Using 3D ICs](https://scale.engin.brown.edu/pdfs/islped09.pdf)\
- _International Symposium on Low Power Electronics and Design_ 
+Reducing the Leakage and Timing Variability of 2D ICs Using 3D ICs\
+_International Symposium on Low Power Electronics and Design_ 
 
 P41. S. Reda\
- [Using Circuit Structural Analysis Techniques for Networks in Systems Biology](https://scale.engin.brown.edu/pdfs/slip09.pdf)\
- _System Level Interconnect Prediction (https://scale.engin.brown.edu/pdfs/SLIP)_
+Using Circuit Structural Analysis Techniques for Networks in Systems Biology\
+_System Level Interconnect Prediction_
 
 P40. R. Cochran and S. Reda\
- [Spectral Techniques for High-Resolution Thermal Characterization with Limited Sensor Data](https://scale.engin.brown.edu/pdfs/dac09.pdf)\
- _Design Automation Conference (https://scale.engin.brown.edu/pdfs/DAC)_
+Spectral Techniques for High-Resolution Thermal Characterization with Limited Sensor Data\
+_Design Automation Conference_
 
 P39. R. Le, S. Reda and R. I. Bahar\
- [High-Performance, Cost-Effective Heterogeneous 3D FPGA Architectures](https://scale.engin.brown.edu/pdfs/glsvlsi09b.pdf)\
- _Great Lakes VLSI Symposium_ 
+High-Performance, Cost-Effective Heterogeneous 3D FPGA Architectures\
+_Great Lakes VLSI Symposium_ 
 
 P38. M. Kadin, S. Reda and G. Uht\
- [Central vs. Distributed Dynamic Thermal Management for Multi-Core Processors: Which one is better?](https://scale.engin.brown.edu/pdfs/glsvlsi09a.pdf)\
- _Great Lakes VLSI Symposium_ 
+Central vs. Distributed Dynamic Thermal Management for Multi-Core Processors: Which one is better?\
+_Great Lakes VLSI Symposium_ 
 
 P37. S. Reda and S. Nassif\
- [Analyzing the Impact of Process Variations on Parametric Measurements: Novel Models and Applications](https://scale.engin.brown.edu/pdfs/date09.pdf)\
- _Design, Automation, Test in Europe_ 
+Analyzing the Impact of Process Variations on Parametric Measurements: Novel Models and Applications\
+_Design, Automation, Test in Europe_ 
 
 P36. S. Reda, G. Smith and L. Smith\
- [Maximizing the Functional Yield of Wafer-to-Wafer 3D Integration](https://scale.engin.brown.edu/pdfs/tvlsi09.pdf)\
- _IEEE Transactions on Very Large Scale Integration Systems_
+Maximizing the Functional Yield of Wafer-to-Wafer 3D Integration\
+_IEEE Transactions on Very Large Scale Integration Systems_
+
 
 
 --- 
@@ -564,19 +564,19 @@ P36. S. Reda, G. Smith and L. Smith\
 ### 2008
 
 P35.  C. Ferri, S. Reda and R. I. Bahar\
- [Parametric Yield Management for 3D ICs: Models and Strategies for Improvement](https://scale.engin.brown.edu/pdfs/jetc08.pdf)\
+ Parametric Yield Management for 3D ICs: Models and Strategies for Improvement\
  _ACM Journal on Emerging Technologies in Computing Systems_
 
 P34.  M. Kadin and S. Reda\
- [Frequency and Voltage Planning for Multi-Core Processors Under Thermal Constraints](https://scale.engin.brown.edu/pdfs/iccd08.pdf)\
+ Frequency and Voltage Planning for Multi-Core Processors Under Thermal Constraints\
  _International Conference on Computer Design_  
 
 P33. M. Kadin and S. Reda\
- [Frequency Planning for Multi-Core Processors Under Thermal Constraints](https://scale.engin.brown.edu/pdfs/islped08.pdf)\
+Frequency Planning for Multi-Core Processors Under Thermal Constraints\
  _International Symposium on Low Power Electronics and Design_
 
 P32. B. Hargreaves, H. Hult and S. Reda\
-[Within-die Process Variations: How Accurately can They Be Statistically Modeled?](https://scale.engin.brown.edu/pdfs/aspdac08.pdf)\
+Within-die Process Variations: How Accurately can They Be Statistically Modeled?\
 _Proc. Asia-Pacific Design Automation Conference_\
 **Best Paper Candidate.**
 
@@ -586,11 +586,11 @@ _Proc. Asia-Pacific Design Automation Conference_\
 
 
 P31. D. Meisner and S. Reda\
-[Hardware Libraries: An Architecture for Economic Acceleration in Soft Multi-Core Environments](https://scale.engin.brown.edu/pdfs/iccd07.pdf)\
+Hardware Libraries: An Architecture for Economic Acceleration in Soft Multi-Core Environments\
 _Proc. International Conference on Computer Design_ 
 
 P30. C. Ferri, S. Reda and R. I. Bahar\
-[Strategies for Improving the Parametric Yield and Profits of 3D ICs](https://scale.engin.brown.edu/pdfs/iccad07.pdf)\
+Strategies for Improving the Parametric Yield and Profits of 3D ICs\
 _Proc. International Conference on Computer-Aided Design_ 
 
 ---
