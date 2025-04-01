@@ -8,6 +8,10 @@ permalink: /news/
 
 
 **2024:**
+*   2024/10: [News article on our work on PoliTune](https://techxplore.com/news/2024-10-ai-fine-tuned-political-bias.html)
+*   2024/10: Congratulations to Ahmed Agiza for successfully completing his Ph.D. thesis
+*   2024/09: Congratulations to Jingxiao Ma for successfully completing his Ph.D. thesis
+*   2024/07: new NSF grant to support reseearch for ML-powered EDA methods
 * 2024/05: IEEE Trans on CAD paper with A. Coskun receives IEEE TCAD Donald O. Pederson Best Paper Award.
 * 2024/04: Congratulations to Marina Neseem for successfully completing her Ph.D. thesis.
 
