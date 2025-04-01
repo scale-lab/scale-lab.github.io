@@ -3,6 +3,10 @@ layout: page
 title: News
 permalink: /news/
 ---
+**2025:**
+* 2025/03: Our work on PoliTune is mentioned in the [Newsweek](https://www.newsweek.com/tech-ceo-doge-doing-great-work-dont-ruin-it-ai-opinion-2050107).
+
+
 **2024:**
 * 2024/05: IEEE Trans on CAD paper with A. Coskun receives IEEE TCAD Donald O. Pederson Best Paper Award.
 * 2024/04: Congratulations to Marina Neseem for successfully completing her Ph.D. thesis.
