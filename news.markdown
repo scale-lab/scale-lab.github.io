@@ -8,7 +8,7 @@ permalink: /news/
 
 
 **2024:**
-*   2024/10: [News article on our work on PoliTune](https://techxplore.com/news/2024-10-ai-fine-tuned-political-bias.html)
+*   2024/10: News article in [TechXplore](https://techxplore.com/news/2024-10-ai-fine-tuned-political-bias.html) on our work on PoliTune
 *   2024/10: Congratulations to Ahmed Agiza for successfully completing his Ph.D. thesis
 *   2024/09: Congratulations to Jingxiao Ma for successfully completing his Ph.D. thesis
 *   2024/07: new NSF grant to support reseearch for ML-powered EDA methods
