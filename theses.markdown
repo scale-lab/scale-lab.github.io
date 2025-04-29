@@ -7,7 +7,7 @@ permalink: /theses/
 # PhD Theses
 
 Optimizing Machine Learning Models through Parameter-Efficiency\
-Ahmed Agzia, October 2024
+Ahmed Agiza, October 2024
 
 [Approximate Computing Techniques: From Logic Synthesis to Deep Learning](http://scale-lab.github.io/pdfs/jingxiao.pdf)\
 Jingxiao Ma, September 2024
