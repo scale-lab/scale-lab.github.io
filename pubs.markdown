@@ -5,6 +5,10 @@ permalink: /pubs/
 ---
 
 ### 2025
+P155. M. Abdelatty, J. Rosenstein, and S. Reda\
+ChipXplore: Natural Language Exploration of Hardware Designs and Libraries\
+_IEEE International Conference on LLM-Aided Design (LAD), 2025_
+
 P154. J. Ma, P. Panda, and S. Reda\
 FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision\
 _IEEE/ACM Design Automation Conference (DAC), 2025_
