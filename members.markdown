@@ -20,7 +20,7 @@ permalink: /members/
 **Prior Members:**
 
 *   **Summer 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Jonathan Herbst (ScM), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Thomas Gordon (BSc)
-*   **Spring 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Jonathan Herbst (ScM), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Jonathan Herbst (ScM), Austin Funk (Bs),  Seyed Morteza Nabavinejad (visiting Scholar)
+*   **Spring 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD),  Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Jonathan Herbst (ScM), Austin Funk (Bs),  Seyed Morteza Nabavinejad (visiting Scholar)
 *   **Fall 2024:**  A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Jonathan Herbst (ScM), Austin Funk (Bsc),  Seyed Morteza Nabavinejad (visiting Scholar)
 
 * * *
