@@ -48,6 +48,9 @@ Ryan Cochran, July 2012
 
 # ScM Theses & Reports
 
+HaShiFlex: A High-Throughput Hardened Shifter DNN Accelerator with Fine-Tuning Flexibility\
+Jonathan Herbst, May 2025
+
 [Approximate Logic Synthesis Using Boolean Matrix Factorization](http://scale-lab.github.io/pdfs/jingxiao.pdf)\
 Jingxiao MA, May 2020
 
@@ -55,6 +58,9 @@ Jingxiao MA, May 2020
 Shuchen Zheng, April 2016
 
 # BSc  Theses
+
+Efficient Multi-Task Learning for Augmented Reality\
+Austin Funk, 2025
 
 [Tools for Understanding the Computational Behavior of Biofilms](http://scale-lab.github.io/pdfs/jason.pdf)\
 Jason Ho, 2022
