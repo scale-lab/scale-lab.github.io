@@ -18,11 +18,24 @@ permalink: /members/
 
 
 **Prior Members:**
+
+*   **Summer 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Jonathan Herbst (ScM), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Thomas Gordon (BSc)
+*   **Spring 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Jonathan Herbst (ScM), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Jonathan Herbst (ScM), Austin Funk (Bs),  Seyed Morteza Nabavinejad (visiting Scholar)
+*   **Fall 2024:**  A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Jonathan Herbst (ScM), Austin Funk (Bsc),  Seyed Morteza Nabavinejad (visiting Scholar)
+
+* * *
+
 *   **Spring 2024:**  Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Kyppy Simani
 *   **Fall 2023:**  Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD), Mahdi Boulila (PhD)
 *   **Spring 2023:**  Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD)
+
+* * *
+
 *   **Fall 2022:**  Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Manar Abdelatty (PhD)
 *   **Spring 2022:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD), Manar Abdelatty (PhD), Rahul Shah (Bsc), Jason Ho (Bsc)
+
+* * *
+
 *   **Fall 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Rahul Shah (Bsc), Jason Ho (Bsc)
 
 *   **Summer 2021:** Sofiane Chetoui (PhD), Abdelrahman Hosny (PhD), Marina Neseem (PhD), A. Agiza (PhD), Jingxiao Ma (PhD),  Rahul Shah (Bsc)
