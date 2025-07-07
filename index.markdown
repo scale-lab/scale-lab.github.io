@@ -20,7 +20,6 @@ layout: home
 *   2024/10: Congratulations to Ahmed Agiza for successfully completing his Ph.D. thesis
 *   2024/09: Congratulations to Jingxiao Ma for successfully completing his Ph.D. thesis
 *   2024/07: new NSF grant to support reseearch for ML-powered EDA methods
-*   2024/05: [IEEE Trans on CAD paper](https://ieeexplore.ieee.org/document/9428622) with [A. Coskun](https://www.bu.edu/eng/profile/ayse-coskun/) receives IEEE TCAD Donald O. Pederson Best Paper Award.
 
 **Recent Papers:**
 
