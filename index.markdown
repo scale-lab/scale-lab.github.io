@@ -18,10 +18,7 @@ layout: home
 *  2025/07 New NSF grant to support research for Multi-Task Learning on Augmented Reality systems.
 * 2025/06 [Best paper award at IEEE International Conference on LLM-Aided Design](https://iclad.ai)
 * 2025/05 Congratulations to Austin Funk for successfully completing his B.Sc. Honors thesis
-*   2024/10: [News article on our work on PoliTune](https://techxplore.com/news/2024-10-ai-fine-tuned-political-bias.html)
-*   2024/10: Congratulations to Ahmed Agiza for successfully completing his Ph.D. thesis
-*   2024/09: Congratulations to Jingxiao Ma for successfully completing his Ph.D. thesis
-*   2024/07: new NSF grant to support reseearch for ML-powered EDA methods
+
 
 **Recent Papers:**
 
