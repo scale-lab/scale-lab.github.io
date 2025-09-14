@@ -59,7 +59,7 @@ Shuchen Zheng, April 2016
 
 # BSc  Theses
 
-Efficient Multi-Task Learning for Augmented Reality\
+[Efficient Multi-Task Learning for Augmented Reality](http://scale-lab.github.io/pdfs/Austin_Funk_Thesis.pdf)\
 Austin Funk, 2025
 
 [Tools for Understanding the Computational Behavior of Biofilms](http://scale-lab.github.io/pdfs/jason.pdf)\
