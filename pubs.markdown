@@ -4,7 +4,7 @@ title: Publications
 permalink: /pubs/
 ---
 ### 2026
-P156. T. Shaffee and S. Reda 
+P156. T. Shaffee and S. Reda\ 
 RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions\
 Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 2026.
 
