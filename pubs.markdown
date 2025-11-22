@@ -12,8 +12,8 @@ Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 
 
 ### 2025
 
-P156. Fast Chip Transient Temperature Simulation via Machine Learning
-M Hajikhodaverdian, S Reda, AK Coskun
+P156. M Hajikhodaverdian, S Reda, AK Coskun\
+Fast Chip Transient Temperature Simulation via Machine Learning\
 _ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)_  **Best Artifact Award**
 
 P155. M. Abdelatty, J. Rosenstein, and S. Reda\
