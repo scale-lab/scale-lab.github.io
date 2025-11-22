@@ -4,24 +4,29 @@ title: Publications
 permalink: /pubs/
 ---
 ### 2026
-P156. T. Shaffee and S. Reda  
+P157. T. Shaffee and S. Reda  
 RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions\
 Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 2026.
 
 ---
 
 ### 2025
+
+P156. Fast Chip Transient Temperature Simulation via Machine Learning
+M Hajikhodaverdian, S Reda, AK Coskun
+_ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)_  **Best Artifact Award**
+
 P155. M. Abdelatty, J. Rosenstein, and S. Reda\
 [ChipXplore: Natural Language Exploration of Hardware Designs and Libraries](https://arxiv.org/abs/2407.12749)\
-_IEEE International Conference on LLM-Aided Design (LAD), 2025_ **Best Paper Award**
+_IEEE International Conference on LLM-Aided Design (LAD)_  **Best Paper Award**
 
 P154. J. Ma, P. Panda, and S. Reda\
 FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision\
-_IEEE/ACM Design Automation Conference (DAC), 2025_
+_IEEE/ACM Design Automation Conference (DAC)_ 2025
 
 P153. M. Abdelatty, J. Ma, S. Reda\
 [MetRex: A Benchmark for Verilog Code Metric Reasoning Using LLMs](https://dl.acm.org/doi/10.1145/3658617.3697625)\
-_IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), 2025_
+_IEEE Asia and South Pacific Design Automation Conference (ASP-DAC)_ 2025
 
 ---
 
