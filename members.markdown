@@ -4,10 +4,10 @@ title: Members
 permalink: /members/
 ---
 
-![](/members/sreda_mini.jpg){:height="100px" width="100"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
+![](/members/sreda_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Prof. Sherief Reda]({% link pages/sreda.markdown %})
 
 
-![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown %})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/Maryam.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Maryam Nouh]({% link pages/Maryam.markdown %}) 
+![](/members/manar_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Manar Abdelatty]({% link pages/manar.markdown%})&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](/members/Maryam.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Maryam Nouh]({% link pages/Maryam.markdown %}) 
 
 ![](/members/Lisa.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Lisa Korver]({% link pages/Lisa.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](/members/Tasneem.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Tasneem Shaffee]({% link pages/Tasneem.markdown %})
