@@ -14,8 +14,10 @@ layout: home
 
 **Recent News:**
 
+* 2026/05: Congratulations to Tian Xi for sucessfully completing his Masters thesis
+* 2026/05: Congratulations to Thomas Gordon for sucessfully completing his  B.Sc. Honors thesis
 * 2025/07: [Prof. Reda interviewed by CNN and  our work on PoliTune getting cited](https://amp.cnn.com/cnn/2025/07/24/tech/is-ai-woke)
-*  2025/07 New NSF grant to support research for Multi-Task Learning on Augmented Reality systems.
+* 2025/07 New NSF grant to support research for Multi-Task Learning on Augmented Reality systems.
 * 2025/06 [Best paper award at IEEE International Conference on LLM-Aided Design](https://iclad.ai)
 * 2025/05 Congratulations to Austin Funk for successfully completing his B.Sc. Honors thesis
 
