@@ -47,8 +47,10 @@ Ryan Cochran, July 2012
 
 
 # ScM Theses & Reports
+[Agentic CPU-GPU Scheduling for Heterogeneous AI Workloads](https://arxiv.org/pdf/2607.22242)\
+Tianxi Lu, May 2026
 
-HaShiFlex: A High-Throughput Hardened Shifter DNN Accelerator with Fine-Tuning Flexibility\
+[HaShiFlex: A High-Throughput Hardened Shifter DNN Accelerator with Fine-Tuning Flexibility](https://arxiv.org/pdf/2512.12847)\
 Jonathan Herbst, May 2025
 
 [Approximate Logic Synthesis Using Boolean Matrix Factorization](http://scale-lab.github.io/pdfs/jingxiao.pdf)\
