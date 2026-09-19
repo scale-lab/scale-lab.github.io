@@ -6,7 +6,7 @@ permalink: /pubs/
 ### 2026
 
 P158. M. Abdelatty, M. Nouh, and S. Reda\
-[CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcement Learning](https://arxiv.org/pdf/2510.14756)\
+[CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcement Learning](https://arxiv.org/pdf/2609.19189)\
 _ACM/IEEE 8th Symposium on Machine Learning for CAD (MLCAD)_
 
 P158. M. Abdelatty, M. Nouh, J. Rosenstein, and S. Reda\
