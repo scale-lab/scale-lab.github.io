@@ -4,6 +4,15 @@ title: Publications
 permalink: /pubs/
 ---
 ### 2026
+
+P158. M. Abdelatty, M. Nouh, and S. Reda\
+[CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcement Learning](https://arxiv.org/pdf/2510.14756)\
+_ACM/IEEE 8th Symposium on Machine Learning for CAD (MLCAD)_
+
+P158. M. Abdelatty, M. Nouh, J. Rosenstein, and S. Reda\
+[Pluto: A Benchmark for Evaluating Efficiency of LLM-generated Hardware Code](https://arxiv.org/pdf/2510.14756)\
+_IEEE International Conference on LLM-Aided Design (LAD)_  **Best Paper Award**
+
 P157. T. Shaffee and S. Reda  
 RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions\
 Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 2026.
