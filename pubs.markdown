@@ -5,7 +5,7 @@ permalink: /pubs/
 ---
 ### 2026
 
-P159. A. Agiza, T. Shaffee, and S. Reda\
+P159. A. Agiza, T. Shaffee, R. Badkul and S. Reda\
 CRLoMTL: Conflict-Resolution through Low-rank matrices for Multi-Task Learning\
 British Machine Vision Conference (BMVC), 2026.
 
