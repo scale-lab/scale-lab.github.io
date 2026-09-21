@@ -5,6 +5,10 @@ permalink: /pubs/
 ---
 ### 2026
 
+P159. A. Agiza, T. Shaffee, and S. Reda\
+CRLoMTL: Conflict-Resolution through Low-rank matrices for Multi-Task Learning\
+British Machine Vision Conference (BMVC), 2026.
+
 P158. M. Abdelatty, M. Nouh, and S. Reda\
 [CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcement Learning](https://arxiv.org/pdf/2609.19189)\
 _ACM/IEEE 8th Symposium on Machine Learning for CAD (MLCAD)_
@@ -14,7 +18,7 @@ P158. M. Abdelatty, M. Nouh, J. Rosenstein, and S. Reda\
 _IEEE International Conference on LLM-Aided Design (LAD)_  **Best Paper Award**
 
 P157. T. Shaffee and S. Reda  
-RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions\
+[RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions](https://arxiv.org/abs/2601.10921)\
 Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 2026.
 
 ---
