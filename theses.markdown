@@ -61,6 +61,9 @@ Shuchen Zheng, April 2016
 
 # BSc  Theses
 
+Efficient Exploration of the Quantization Parameter Space for Vision Transformers\
+Thomas Gordon, 2026
+
 [Efficient Multi-Task Learning for Augmented Reality](http://scale-lab.github.io/pdfs/Austin_Funk_Thesis.pdf)\
 Austin Funk, 2025
 
