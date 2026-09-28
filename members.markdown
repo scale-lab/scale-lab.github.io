@@ -12,11 +12,13 @@ permalink: /members/
 ![](/members/Lisa.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Lisa Korver]({% link pages/Lisa.markdown %}) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](/members/Tasneem.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Tasneem Shaffee]({% link pages/Tasneem.markdown %})
 
-![](/members/tianxi_mini.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Tianxi Li]({% link pages/tianxi.markdown %})
+![](/members/muhammad.jpg){:height="100px" width="100px"}&nbsp;&nbsp;[Muhammad Samiullah]({% link pages/muhammad.markdown %})
 
 
 
 **Prior Members:**
+
+*   **Fall 2025:**  Manar Abdelatty (PhD),  , Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Thomas Gordon (BSc), Tianxi Lu (ScM)
 
 *   **Summer 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD), Jonathan Herbst (ScM), Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Thomas Gordon (BSc)
 *   **Spring 2025:**  Manar Abdelatty (PhD), Mahdi Boulila (PhD),  Tasneem Shaffee (PhD), Lisa Korver (PhD), Maryam Nouh (PhD), Jonathan Herbst (ScM), Austin Funk (Bs),  Seyed Morteza Nabavinejad (visiting Scholar)
