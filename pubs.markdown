@@ -5,19 +5,19 @@ permalink: /pubs/
 ---
 ### 2026
 
-P160. A. Agiza, T. Shaffee, R. Badkul and S. Reda\
+P161. A. Agiza, T. Shaffee, R. Badkul and S. Reda\
 CRLoMTL: Conflict-Resolution through Low-rank matrices for Multi-Task Learning\
 British Machine Vision Conference (BMVC), 2026.
 
-P159. M. Abdelatty, M. Nouh, and S. Reda\
+P160. M. Abdelatty, M. Nouh, and S. Reda\
 [CovR: Coverage-Aware Hardware Verification via Reasoning-Guided Reinforcement Learning](https://arxiv.org/pdf/2609.19189)\
 _ACM/IEEE 8th Symposium on Machine Learning for CAD (MLCAD)_
 
-P158. M. Abdelatty, M. Nouh, J. Rosenstein, and S. Reda\
+P159. M. Abdelatty, M. Nouh, J. Rosenstein, and S. Reda\
 [Pluto: A Benchmark for Evaluating Efficiency of LLM-generated Hardware Code](https://arxiv.org/pdf/2510.14756)\
 _IEEE International Conference on LLM-Aided Design (LAD)_  **Best Paper Award**
 
-P157. T. Shaffee and S. Reda  
+P158. T. Shaffee and S. Reda  
 [RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions](https://arxiv.org/abs/2601.10921)\
 Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 2026.
 
@@ -25,9 +25,13 @@ Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 
 
 ### 2025
 
-P156. M Hajikhodaverdian, S Reda, AK Coskun\
+P157. M Hajikhodaverdian, S Reda, AK Coskun\
 Fast Chip Transient Temperature Simulation via Machine Learning\
 _ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)_  **Best Artifact Award**
+
+P156. M Hajikhodaverdian, S Reda, AK Coskun\
+Fast Machine Learning Based Prediction for Temperature Simulation Using Compact Models.\
+_ACM/IEEE Design, Automate and Test in Europe (DATE)_
 
 P155. M. Abdelatty, J. Rosenstein, and S. Reda\
 [ChipXplore: Natural Language Exploration of Hardware Designs and Libraries](https://arxiv.org/abs/2407.12749)\
